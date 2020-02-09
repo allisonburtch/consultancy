@@ -4,12 +4,10 @@ title: Contact
 ---
 
 
-I'd love to talk to as many people as possible. If you have an org/startup/ngo/contacts/ideas that you would like to connect me to, or if you have a problem that you want help solving. Please feel free to book a calend.ly link here.
+I'd love to talk to as many people as possible. 
+### That means you!
 
-put a calendly insert here
-
-
-
+If you have an startup/NGO/cooperative that you would like to connect me to -- or if you have a problem that you want help solving -- please feel free to book a Zoom call in the calend.ly link here:
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/allison-c15/30min" style="min-width:320px;height:630px;"></div>
@@ -17,5 +15,6 @@ put a calendly insert here
 <!-- Calendly inline widget end -->
 
 
+Alternatively, feel free to email me at [mailto](allison@allisonburtch.net)
 
 ***
