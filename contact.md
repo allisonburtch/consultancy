@@ -15,6 +15,6 @@ If you have an startup/NGO/cooperative that you would like to connect me to -- o
 <!-- Calendly inline widget end -->
 
 
-Alternatively, feel free to email me at [mailto](allison@allisonburtch.net)
+Alternatively, feel free to email me <a href="mailto:allison@allisonburtch.net">here</a>.
 
 ***

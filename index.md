@@ -6,6 +6,8 @@ title: Hey. Welcome.
 
 building something new is brave. building something new that is an affront to the status quo is braver. and building something new that is xxx can be downright insane.
 
+the feeling that you get when someone has your back and tells the truth. 
+
 i will tell you the truth and help you work through the muddled mush that is modern societal messaging. 
 
 telling the truth is a work of beauty because it is the creation of something new.

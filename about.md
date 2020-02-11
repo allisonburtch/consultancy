@@ -6,12 +6,13 @@ title: About
 
 ### What is ibeona research lab (irl)?
 
-_ibeona_ is a word based on the greek goddess of outward journeys, baby steps and new beginnings. I like to think that _ibeona_ is the feeling you get when someone has your back and tells the truth. 
+_ibeona_ is a word based on the Greek goddess of outward journeys, baby steps and new beginnings. I like to think that _ibeona_ is the feeling you get when someone has your back and tells the truth. 
 
 We're a research lab. We work with you to solve tricky problems, publish trends, and report on our findings from a unique perspective. 
 
 
 ### Do you really have the @irl twitter handle?
+
 Yes, please follow us [here](https://twitter.com/irl).
 
 
@@ -39,6 +40,7 @@ You can read more about her work [here](https://allisonburtch.github.io/) and pr
 
 
 
+<br>
 
 
 
@@ -48,16 +50,12 @@ You can read more about her work [here](https://allisonburtch.github.io/) and pr
 
 
 
-## to do
- - favicon
- - fix structure to make more readable
- - get all the right words down
- - clear up all the services etc
- 
 
 
 
 
+
+<br>
 
 
 
