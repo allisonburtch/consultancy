@@ -2,32 +2,75 @@
 layout: page
 ---
 
-
-
-
 <!-- this is the code for an archive: -->
-<div class="post">
-	{% for post in site.posts %}
-	{% unless post.next %}
-	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
-	{% else %}
-	{% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
-	{% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
-	{% if year != nyear %}
-	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
-	{% endif %}
-	{% endunless %}
-    <a href="{{ post.url }}">{{ post.title }}{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}</a><br>
-	{% endfor %}
+<div class="posts">
+  {% for post in site.posts %}
+<article class="post">
+<h1 class="post-title">
+<a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title | smartify }}</a>{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}
+</h1>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}
+
+    {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  in <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+  </time>
+
+<span class="permalink">
+{% if post.link %}
+<a href="{{ post.url }}">Permalink</a>
+{% endif %}
+</span>
+
+    {{ post.content | smartify }}
+  
+  <br>
+  <div class="tag-list">
+  {% if post %}
+  {% assign tags = post.tags %}
+  {% else %}
+  {% assign tags = page.tags %}
+  {% endif %}
+  {% for tag in tags %}
+  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">#{{tag}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+  </div>
+  
+  </article>
+  {% endfor %}
 </div>
 
+<!--
+  <div class="post">
+  {% for post in site.posts %}
+  {% unless post.next %}
+  <h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
+  {% else %}
+  {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
+  {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
+  {% if year != nyear %}
+  <h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
+  {% endif %}
+  {% endunless %}
+    <a href="{{ post.url }}">{{ post.title }}{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}</a><br>
+  {% endfor %}
+</div>
+-->
 
 
-<!-- this is the code for the index.html which i don't nkow how to deal with
----
-layout: default
+<!-- ---
+layout: page
 title: Home
 ---
+
+
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -85,4 +128,5 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
  -->

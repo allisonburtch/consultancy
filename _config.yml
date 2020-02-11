@@ -1,8 +1,9 @@
 # Setup
-title: HOLDING BASIN
-tagline: a research and strategy consultancy
-url: https://tbd
+title: ibeona research lab @irl
+tagline: 
+url: https://twitter.com/irl
 paginate: 1
+paginate_path: "/blog/page:num/"
 baseurl: ""
 permalink: :title/
 
