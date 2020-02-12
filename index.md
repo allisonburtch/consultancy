@@ -3,7 +3,7 @@ layout: page
 title: Hey. Welcome.
 ---
 
-Building something new is brave. Building something new that is an affront to the status quo is braver. and building something new that is xxx can be downright insane.
+Building something new is brave. Building something new that is an affront to the status quo is braver. and building something new that is (better word needed) can be downright insane.
 
 I'm here to help you align your mission and your product. Your dream with reality. 
 
