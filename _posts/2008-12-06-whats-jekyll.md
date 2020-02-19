@@ -1,13 +1,21 @@
 ---
 layout: post
-title: What's Holding Your Horses?
+title: What's Ibeona?
 date: 2020-02-06 09:30:00
 categories: [Software]
 tags: [ruby, open-source, blogging]
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
 
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+How? I like to think of [name] as the feeling you get when someone has your back and tells the truth. Seen, but not coddled. 
 
-It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
+I’m not an ethicist. I believe in a productive future, that dreaming is important, and making the world a space for all of us is urgently important. I want to work with you not to change the world (which is fine on its own) but to create situations where humans can be their fullest selves.
+
+It’s increasingly important – not only for the future of the planet and humanity but for your business itself – to align your mission with your product. Your customers want to buy something that feels good. Your employees don’t want to work for someone shady. 
+
+### We all share a common horizon.
+
+
+I work with people. And ideas. But mainly people. I could say I work with startups, non profits, NGOs, but at the end of the day it’s people making these companies happen.
+
+I'm great at navigating contrasts. I've worked at high-level UN technical innovation (using drones to deliver vaccines and flood response) and cooperative political groups developing fab labs in the US south. I've created an app platform for flip phones and worked on machine learning + differential privacy for iOS apps. I've organized conferences with some of the most interesting people in the tech space.
