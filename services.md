@@ -30,13 +30,5 @@ deliverable options:
  - more techy stuff
 
 
-telling the truth is creating something new. how can we partner together to create 
-
-
-do you want need someone to facilitate group decision making?
-
-
-what group work do i want to do? getting clear on paths forward, figuring out what's most important
-
 
 ***

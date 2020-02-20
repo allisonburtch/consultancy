@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Hey, welcome.
 ---
 
 I work with people. And ideas. But mainly people. I could say I work with startups, non profits, NGOs, but at the end of the day it’s people making these companies happen.
