@@ -34,28 +34,7 @@ Allison Burtch is a strategist, technologist and researcher, most recently at Ca
 
 You can read more about her work [here](https://allisonburtch.github.io/) and press/speaking engagements [here](https://allisonburtch.github.io/press.html). 
 
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
+### Website
+This site was made using [Ruby Jekyll](jekyllrb.com/), modifying the [Noir](https://github.com/essentialenemy/noir/) theme and [Netlify](https://www.netlify.com/). Shout out to all the open-sourcers out there. 
 
 ***
