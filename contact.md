@@ -3,10 +3,6 @@ layout: page
 title: Contact
 ---
 
-
-I'd love to talk to as many people as possible. 
-### That means you!
-
 If you have an startup/NGO/cooperative that you would like to connect me to -- or if you have a problem that you want help solving -- please feel free to book a Zoom call in the calend.ly link here:
 
 <!-- Calendly inline widget begin -->
