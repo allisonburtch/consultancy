@@ -14,8 +14,13 @@ You run a venture fund:
 You want to start a new project:
 
 
+You're at a non-profit and building a tech project:
+
+
 
 when you're starting a new thing, call me. 
+
+persona: what problems do they have and how do they solve them?
 
 
 

@@ -2,8 +2,6 @@
 layout: post
 title: What's Ibeona?
 date: 2020-02-06 09:30:00
-categories: [Software]
-tags: [ruby, open-source, blogging]
 ---
 
 
