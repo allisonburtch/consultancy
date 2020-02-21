@@ -4,16 +4,16 @@ title: About
 ---
 
 
-### What is ibeona research lab (irl)?
+<!-- ### What is IRL research lab?
 
 _ibeona_ is a word based on the Greek goddess of outward journeys, baby steps and new beginnings. 
 
 I like to think that _ibeona_ is the feeling you get when someone has your back and tells the truth. 
 
-We're a research lab for the future. We work with you to solve tricky problems, publish trends, and report on findings from our unique perspective. 
+We're a research lab for the future. We work with you to solve tricky problems, publish trends, and report on findings from our unique perspective.  -->
 
 
-<!-- ### How'd you get the @irl twitter handle?
+### How'd you get the @irl twitter handle?
 
 Very carefully :) 
 
@@ -24,7 +24,7 @@ Please follow us [here](https://twitter.com/irl).
 
  I recently wrote a couple pieces for Canopy: 
  - Intro to the work and [how we think about strategy](https://canopy.cr/post/how-we-think-about-strategy-at-canopy). 
- - When most privacy advocates speak about our individualistm, how to think about [machine learning, privacy and our interconnection](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy). -->
+ - When most privacy advocates speak about our individualistm, how to think about [machine learning, privacy and our interconnection](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy).
 
 
 ### Can I get a longass third-person bio please?
