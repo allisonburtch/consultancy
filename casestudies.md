@@ -24,7 +24,7 @@ I was the Speculative Hardware lead at UNICEF, strate
 
 # AINow/Google Walkouts
 
-	- Meredith Whitacker 
+- Meredith Whitacker 
 
 
 # Cooperation Jackson 
