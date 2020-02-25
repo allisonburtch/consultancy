@@ -3,6 +3,21 @@ layout: page
 title: Services
 ---
 
+*talk to MRB about this on thursday, and how to anticipate pricing it*
+
+will make a structure for doing an audit
+
+1. identify problems. 
+
+
+2. honest feedback
+
+3. help you align what you want to make (your integrity etc) and what is this product that you want to put out in the world 
+
+deliverables tailored to what you're looking for
+
+
+i work best in person. i help 
 
 (still unclear on this)
 
