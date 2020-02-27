@@ -20,7 +20,9 @@ Building something new is brave.  Building something new that is an affront to t
 
 <!-- (i'll get that feeling because i'm a target persona bc i'm building a medical delivery device and i'm not a dummy so i can't do shit like everyone else so i'll end up with a device that doesn't work on a sector of a population. ) -->
 
-# What we bring is the *feeling you get when someone has your back* and *tells the truth*. (because why?)
+# What we bring is the *feeling you get when someone has your back* and *tells the truth*. 
+
+<!-- (because why?) -->
 
 
 
