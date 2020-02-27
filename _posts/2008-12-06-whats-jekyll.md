@@ -1,10 +1,11 @@
 ---
 layout: post
-title: What's the story of [name]?
+title: Why I started IRL Research Lab
 date: 2020-02-06 09:30:00
 ---
 
-how did i get here? what was it like?
+coming soon 
+<!-- how did i get here? what was it like?
 what didn't work for me? why does this make sense?
 what do people count on me for? what do people trust me for?
 
@@ -31,4 +32,4 @@ It’s increasingly important – not only for the future of the planet and huma
 
 I work with people. And ideas. But mainly people. I could say I work with startups, non profits, NGOs, but at the end of the day it’s people making these companies happen.
 
-I'm great at navigating contrasts. I've worked at high-level UN technical innovation (using drones to deliver vaccines and flood response) and cooperative political groups developing fab labs in the US south. I've created an app platform for flip phones and worked on machine learning + differential privacy for iOS apps. I've organized conferences with some of the most interesting people in the tech space.
+I'm great at navigating contrasts. I've worked at high-level UN technical innovation (using drones to deliver vaccines and flood response) and cooperative political groups developing fab labs in the US south. I've created an app platform for flip phones and worked on machine learning + differential privacy for iOS apps. I've organized conferences with some of the most interesting people in the tech space. -->
