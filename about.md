@@ -28,7 +28,7 @@ Please follow us [here](https://twitter.com/irl).
 
 ### Can I get a longass third-person bio please?
 
-[name] was started by [Allison Burtch](allisonburtch.github.io/). The name Allison means "truthful one" and that has been her life's mission - to create beauty and tell the truth so that we can live more freely on this interconnected planet. She has consulted since 2014 for startups, community groups and NGOs. 
+IRL Research Lab was founded by [Allison Burtch](allisonburtch.github.io/). The name Allison means "truthful one" and that has been her life's mission - to create beauty and tell the truth so that we can live more freely on this interconnected planet. She has consulted since 2014 for startups, community groups and NGOs. 
 
 She has worn many hats, and has been a strategist, technologist and researcher, most recently at [Canopy](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy) -- a Brooklyn-based startup creating a private recommendation architecture for the internet. Previously, she was the Speculative Hardware lead at UNICEF, creating the [global strategy](https://www.pbs.org/newshour/world/drone-use-humanitarian-aid) for drone delivery of vaccines and flood response. 
 
