@@ -21,8 +21,9 @@ The Office of Innovation is a creative, interactive and agile team in UNICEF, wh
 
 
 # AINow/Google Walkouts
+Meredith Whittaker and I first met when she asked me to speak at a privacy event at Pioneer Works in 2014. Since then, we've collaborated on strategy for her multiple projects involving the future of artificial intelligence and the limits of machine learning at the [AINowInstitute](ainowinstitute.org/). 
 
-*Allison is the ultimate BS detector. She’s been in and around the technology industry for over a decade...I worked at Google for over a decade, and inside and out, I’ve rarely met someone who is able to get to the heart of a technical issue with as much clarity and precision. I wished she’d been in many of the meetings where bad projects based on incomplete thinking were pushed forward.* - Meredith Whitacker
+*"Allison is the ultimate BS detector. She’s been in and around the technology industry for over a decade...I worked at Google for over a decade, and inside and out, I’ve rarely met someone who is able to get to the heart of a technical issue with as much clarity and precision. I wished she’d been in many of the meetings where bad projects based on incomplete thinking were pushed forward."* - Meredith Whitacker
 
 
 
