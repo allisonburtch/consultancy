@@ -3,6 +3,16 @@ layout: page
 title: Contact
 ---
 	
+# Email
+
+Feel free to email me <a href="mailto:hi@irlresear.ch">hi@irlresear.ch</a>.
+
+# Twitter
+
+Please follow us [@irl](https://twitter.com/irl).
+
+# Book a free 30 minute consultation
+
 If you have an startup/NGO/cooperative that you would like to connect me to -- or if you have a problem that you want help solving -- please feel free to book a Zoom call in the calend.ly link here:
 
 <!-- Calendly inline widget begin -->
@@ -11,6 +21,5 @@ If you have an startup/NGO/cooperative that you would like to connect me to -- o
 <!-- Calendly inline widget end -->
 
 
-Alternatively, feel free to email me <a href="mailto:allison@allisonburtch.net">here</a>.
 
 ***
