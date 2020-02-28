@@ -57,21 +57,19 @@ need to do: write out each persona
 
 what deliverables would be applicable for each of these? 
 
-<h3> You're at a non-profit and building a tech project: </h3>
+You're at a non-profit and building a tech project: 
 
 
-<h3> You're a founder/CEO: </h3>
-	- bullet point
-	- bullet point
-	- bullet point
+You're a founder/CEO: 
+- bullet point
+- bullet point
+- bullet point
 
 
-<h3> You run a venture fund:
-	- 
+You run a venture fund:
+- 
 
-
-<h3> You want to start a new project:
-
+You want to start a new project:
 
 
 

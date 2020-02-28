@@ -1,11 +1,31 @@
 ---
 layout: post
 title: Why I started IRL Research Lab
-date: 2020-02-06 09:30:00
+date: 2020-02-10 09:30:00
 ---
 
 coming soon 
-<!-- how did i get here? what was it like?
+
+
+As a chronically curious person, I've struggled to find a place in
+
+
+I've found that my skills are best used in the short term
+
+things i'm thinking a lot about are: mass infrastructure (physical, digital etc), new pathroads in consciousness and mental health (psilocybin, MDMA, ketamine innovations in supply chain and policy), agtech and feeding the world, climate change resilience for all, 
+
+i think a lot of the woo woo stuff that people have believed for thousands of years just hasnt' been provedn by quantum science et
+
+i've done a lot of things
+
+when i do something, i *really* do it. 
+
+maybe do the values exercise again? obviously brands and values and change and whatnot but building it again could be helpful. 
+
+
+
+
+how did i get here? what was it like?
 what didn't work for me? why does this make sense?
 what do people count on me for? what do people trust me for?
 
@@ -32,4 +52,4 @@ It’s increasingly important – not only for the future of the planet and huma
 
 I work with people. And ideas. But mainly people. I could say I work with startups, non profits, NGOs, but at the end of the day it’s people making these companies happen.
 
-I'm great at navigating contrasts. I've worked at high-level UN technical innovation (using drones to deliver vaccines and flood response) and cooperative political groups developing fab labs in the US south. I've created an app platform for flip phones and worked on machine learning + differential privacy for iOS apps. I've organized conferences with some of the most interesting people in the tech space. -->
+I'm great at navigating contrasts. I've worked at high-level UN technical innovation (using drones to deliver vaccines and flood response) and cooperative political groups developing fab labs in the US south. I've created an app platform for flip phones and worked on machine learning + differential privacy for iOS apps. I've organized conferences with some of the most interesting people in the tech space.
