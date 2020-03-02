@@ -4,92 +4,28 @@ title: Services
 ---
 
 
-coming soon 
+If you’re a startup CEO/Founder: you have this problem/question
+You’re brilliant and one of those crazy people that is chasing after an idea. You’ve promised a lot: to your employees, your investors, yourself. You know that tech is full of assholes and would prefer to not be one of them. You're a pre-seed or seed stage startup and realizing that what you're trying to tackle might be a little more difficult than expected. Y
+ou need to hone in on the problem you're going to work on.  How can you fit your product into what you’ve promised? Or how can you make better promises? 
+What is your theory of change? We’ll work together to get clear on your steps to success. 
+- 2-3 interviews with you and your team
+And this
+Are steps we’ll take to getting you on your way
 
+If you’re at a non profit/NGO starting a tech project: You know a couple things are uncertain: how to bridge the future of technology with the deep mission of your project. You want to move your organization forward to be better prepared to handle what is coming next but don’t know how (or do, but need some help). You know that tech is the future and you may or may not be digitally savvy (whatever that means) but your colleagues certainly aren’t (or they are) and you need someone to come in
+Three deliverable
+Like this
+And this
 
-*talk to MRB about this on thursday, and how to anticipate pricing it*
+If you’re a VC running a fund: you need a consultant to send to your startups to help them with their idea and product/market/fit. High EQ
+Three deliverable
+Like this
+And this
 
-
-intro paragraph (50 words)
-H2 you're a CEO
-one sentence, 3 bullet points - a problem statement - bullet poimnts are concrete things hyou give them to help them solve that problem
-work on the template/fill out the template
-problem/question
-
-then do that 4 times
-
-i work directly with CEOs in order to:
-- concrete things that i do, so that when someone scans down the list, different things for differentt people
-
-put something clever at the bottom
-
-OTHER
-- make something funny about how this is what i would choose
-- if you don't fit neatly into one of these categories we're probably a good fit
-
-will make a structure for doing an audit
-
-1. identify problems. 
-
-2. honest feedback
-
-3. help you align what you want to make (your integrity etc) and what is this product that you want to put out in the world 
-
-'audit'is a really vague term. we 'evaluate' it. which types of audits would be permissible?
-that requires a bit more specificity  
-
-wholistic
-
-in depth 1 on 1 interviews and consultations with founders and staff
-develop survey and methodoliges to better understand the issues with organization/business planm
-help facilitate  conversations with stakeholders "people involved" to insure all people that the people are figureing it out
-draft reports and assessments
-can be contracted to do targeted research to help inform decision making
-commit to serve as a resource and a thought partner throughout the process
-
-
-
-what is their theory of change, if they're successful how will the world change?
-strategic plans and product development
-enumerate this
-
-need to do: write out each persona
-
-what deliverables would be applicable for each of these? 
-
-You're at a non-profit and building a tech project: 
-
-
-You're a founder/CEO: 
-- bullet point
-- bullet point
-- bullet point
-
-
-You run a venture fund:
-- 
-
-You want to start a new project:
-
-
-
-
-when you're starting a new thing, call me. 
-
-persona: what problems do they have and how do they solve them?
-
-
-
- - advising
- - jumpstarting new projects
- - group work/trained facilitator
- - trend reports
-
-deliverable options:
- - research projects
- - product feedback
- - more techy stuff
-
+If you’re none of these: you’re some type of weirdo, wanting to make something better, and frustrated at the blocks in your way. Let’s brainstorm together. 
+Three deliverable
+Like this
+And this
 
 
 ***
