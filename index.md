@@ -8,11 +8,15 @@ We're IRL Research Lab. We work with people. And ideas. And technology. But main
 
 Humanity is on the verge of many possible futures, all happening at the same time, to all of us. 
 
-I'm not here to support you in how you *should* be, whatever that means. I'm here to hold space for your complicated tech/business/people problems with warmth, precision and integrity. 
+### I'm here to hold space for your complicated tech/business/people problems with warmth, precision and integrity. 
 
-We’re a research lab for the future. We will help you align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you bravely build the future. 
+I bring clarity that saves your organization time, energy and resources. And I've done this with big ideas in the past: drones for humanitarian work with UNICEF, blockchain for journalism, AI/ML for privacy, and a range of political work. 
 
-Building something new is brave. Let's build the horizon together. 
+IRL Research Lab is commited to building the future. We will help you align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you bravely build the future. 
+
+### Think of it as the feeling you get when someone has your back and *tells the truth*. 
+
+### A lot is at stake. Building something new is brave. Let's build the horizon together. 
 
 
 
