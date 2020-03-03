@@ -28,7 +28,11 @@ Please follow us [here](https://twitter.com/irl).
 
 ### Can I get a longass third-person bio please?
 
-<center><img src='/assets/_DSC0802.jpeg' alt="headshot" style="width:100%"></center>
+<figure>
+  <img src="/assets/headshot.jpg" alt="Headshot" style="width:100%">
+</figure>
+
+
 
 IRL Research Lab was founded by [Allison Burtch](allisonburtch.github.io/). The name Allison means "truthful one" and that has been her life's mission - to create beauty and tell the truth so that we can live more freely on this interconnected planet. She has consulted since 2014 for startups, community groups and NGOs. 
 
