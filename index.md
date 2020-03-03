@@ -3,7 +3,6 @@ layout: page
 title: Hey, welcome.
 ---
 
-
 We're IRL Research Lab. We work with people. And ideas. And technology. But mainly people. 
 ### Humanity is on the verge of many possible futures, all happening at the same time, to all of us. 
 I bring clarity that saves your organization time, energy and resources. And I've done this with big ideas in the past: drones for humanitarian work with UNICEF, blockchain for journalism, AI/ML for privacy, and a range of political work. We're here to hold space for your complicated tech/business/people problems with warmth, precision and integrity. 
