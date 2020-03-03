@@ -6,9 +6,9 @@ title: Services
 
 # If you’re a startup CEO/Founder: 
 You’re one of those rare driven people that is chasing after a brilliant idea. But brilliant ideas are everywhere, making them a reality is a different story. Can you make it happen? You’ve promised a lot: to your investors, your employees, yourself. You're a pre-seed or seed stage startup and realizing that what you're trying to tackle might be a little more difficult than expected. 
-	- audit comprised of interviews with yourself and team
-	- presentation
-	- tangible steps moving forward to move you more toeward your mission
+ - audit comprised of interviews with yourself and team
+ - presentation
+ - tangible steps moving forward to move you more toeward your mission
 
 
 # If you’re at a non profit/NGO starting a tech project: 
