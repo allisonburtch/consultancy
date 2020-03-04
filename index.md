@@ -14,7 +14,7 @@ We will help you align your mission and your product, your dream with reality, s
 We do this by:
 1. Conducting research to predict possible futures. 
 2. In-depth analysis of your company's product and mission alignment
-3. Advising on product roadmap
+3. Help build tech roadmap
 
 ### Think of it as the feeling you get when someone has your back and *tells the truth*. 
 
