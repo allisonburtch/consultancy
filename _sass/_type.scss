@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 
-h2::before,h4::before,h5::before,h6::before {
+h2::before,h4::before,h3::before,h5::before,h6::before {
     color: #55555c;
     left: -1.2em;
     top: 0;
@@ -34,13 +34,13 @@ h2 {
 }
 
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  margin-top: 1 rem;
+  font-size: 1.5rem;
 }
 
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 p {
@@ -100,12 +100,12 @@ span.link-arrow {
 
 blockquote {
   width: 100%;
-  padding:.25em 90px .25em 25px;
+  padding:.25em 20px .25em 20px;
   margin: 30px auto;
   font-style: italic;
   position: relative;
   opacity: .7;
-  border-left: 3px solid #d4d4d4;
+  border-left: 2px solid #d4d4d4;
   
   @media (prefers-color-scheme: dark) {
     border-left: 3px solid #333333;
@@ -116,8 +116,8 @@ blockquote {
   }
 
   @media (min-width: 30em) {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
+    padding-right: 2rem;
+    padding-left: 1rem;
   }
 }
 
