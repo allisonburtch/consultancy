@@ -26,7 +26,7 @@ And we've done this with big ideas in the past: drones for humanitarian work wit
 
 We have the range to hold space for complicated projects.
 
-## A lot is at stake. Building something new is brave. Let's build the horizon together. 
+### A lot is at stake. Building something new is brave. Let's build the horizon together. 
 
 
 
