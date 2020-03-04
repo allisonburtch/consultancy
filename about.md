@@ -3,14 +3,15 @@ layout: page
 title: About
 ---
 
+<meta name="About" content="Author: Burtch, Allison, 
+    Category: 'consultancy, NYC consultants, trend reports, technology, future tech'">
+<title>About IRL Research Lab, twitter handle @irl and Allison Burtch</title>
 
-### What is IRL research lab?
+    
 
-Drawing from a long line of recursive naming, IRL stands for IRL Research Lab.
+### What does IRL research lab stand for ?
 
-We are feeling you get when someone has your back and tells the truth. 
-
-We're a research lab for the future. We work with you to solve tricky problems, publish trends, and report on findings from our unique perspective. 
+Drawing from a [long line](https://en.wikipedia.org/wiki/Recursive_acronym) of recursive naming, IRL stands for IRL Research Lab.
 
 
 ### How'd you get the @irl twitter handle?
@@ -31,7 +32,6 @@ Please follow us [here](https://twitter.com/irl).
 <figure>
   <img src="/assets/headshot.jpg" alt="Headshot" style="width:100%">
 </figure>
-
 
 
 IRL Research Lab was founded by [Allison Burtch](allisonburtch.github.io/). The name Allison means "truthful one" and that has been her life's mission - to create beauty and tell the truth so that we can live more freely on this interconnected planet. She has consulted since 2014 for startups, community groups and NGOs. 

@@ -2,13 +2,16 @@
 layout: page
 title: Services
 ---
-
+<meta name="Services" content="Author: Burtch, Allison, 
+    Category: 'consultancy, trend reports, technology, future tech'">
 
 # If you’re a startup CEO/Founder: 
 You’re one of those rare driven people that is chasing after a brilliant idea. But brilliant ideas are everywhere, making them a reality is a different story. Can you make it happen? You’ve promised a lot: to your investors, your employees, yourself. You're a pre-seed or seed stage startup and realizing that what you're trying to tackle might be a little more difficult than expected. 
  - audit comprised of interviews with yourself and team
  - presentation
- - tangible steps moving forward to move you more toeward your mission
+ - tangible steps moving forward to move you more toward your mission
+ - cultural observations/ethnographies to market-based decision making
+
 
 
 # If you’re at a non profit/NGO starting a tech project: 

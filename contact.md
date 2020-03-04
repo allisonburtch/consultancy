@@ -2,7 +2,11 @@
 layout: page
 title: Contact
 ---
-	
+<meta name="Contact" content="Author: Allison Burtch, 
+    Category: 'best way to contact Allison Burtch and IRL Research Lab is to email hi@irlresear.ch or set up a Calendly appointment or follow on twitter @irl https://twitter.com/irl'">
+<title>About IRL Research Lab, twitter handle @irl and Allison Burtch</title>
+
+
 # Email
 
 Feel free to email me <a href="mailto:hi@irlresear.ch">hi@irlresear.ch</a>.
