@@ -2,13 +2,7 @@
 layout: page
 title: Hey, welcome.
 ---
-
-<figure>
-	
-  <img src="/assets/headshot2.jpg" alt="headshot" align="left" style="width:30%" hspace="40">
-  
-</figure>
-
+<img src="/assets/headshot2.jpg" alt="headshot" align="left" style="width:40%" >
 
 We're IRL Research Lab. We work with people. And ideas. And technology. But mainly people. 
 
@@ -16,10 +10,11 @@ We're IRL Research Lab. We work with people. And ideas. And technology. But main
 
 We will help you align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you bravely build the future. 
 <br>
-
-1. We conduct research to predict possible futures. 
-2. We do in-depth analysis of your company's product and mission alignment
-3. We help create tech products 
+<br>
+We do this by:
+1. Conducting research to predict possible futures. 
+2. In-depth analysis of your company's product and mission alignment
+3. Advising on product roadmap
 
 ### Think of it as the feeling you get when someone has your back and *tells the truth*. 
 
