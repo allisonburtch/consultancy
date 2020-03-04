@@ -4,27 +4,26 @@ title: Hey, welcome.
 ---
 <img src="/assets/headshot2.jpg" alt="headshot" align="left" style="width:40%" >
 
-We're IRL Research Lab. We work with people. And ideas. And technology. But mainly people. 
+## We’re IRL Research Lab. 
+## We help teams of people build better futures for all of us.
 
-### Humanity is on the verge of many possible futures, all happening at the same time, to all of us. 
-
-We will help you align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you bravely build the future. 
+<!-- We're IRL Research Lab. We work with people. And ideas. And technology. But mainly people. 
+ -->
+## We believe that humanity is on the verge of many possible futures.
 <br>
-<br>
-We do this by:
-1. Conducting research to predict possible futures. 
-2. In-depth analysis of your company's product and mission alignment
-3. Help build tech roadmap
+We align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you plan and build. Here’s how:
 
-### Think of it as the feeling you get when someone has your back and *tells the truth*. 
+We **conduct research** to predict possible futures
 
-And we've done this with big ideas in the past: drones for humanitarian work with UNICEF, blockchain for journalism, on-device machine learning for recommendations, and privacy projects far ahead of their time.
+We **analyze** your company’s product and mission alignment.
 
-We have the range to hold space for complicated projects.
+We **build tech roadmaps** to fix and maintain alignment.
 
-### A lot is at stake. Building something new is brave. Let's build the horizon together. 
+**But mostly, we have your back, and tell the truth.**
 
+And we’ve done this with big ideas in the past: drones for humanitarian work with UNICEF, blockchain for journalism, on-device machine learning for recommendations, and privacy hardware far ahead of their time. 
 
+We thrive on the difficult and have the range to hold space for complicated projects.
 
 
 ***
