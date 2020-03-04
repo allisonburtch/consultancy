@@ -14,28 +14,42 @@ What we offer:
  - Mission alignment presentation with ta angible steps moving forward to move you more toward your mission
  - Cultural observations/ethnographies to market-based decision making
 
+<span class="improved">
+<a href="mailto:hi@irlresear.ch">Be in touch</a></span> 
 
 # If you’re at a non profit/NGO starting a tech project: 
 You believe in the deep mission of your project and also know that your organization wants to prepare itself for the tech economy and automation. You want to move your organization forward to be better prepared to handle what is coming next but don’t know how (or do, but need some help). You know that tech is the future and you may or may not be digitally savvy (whatever that means) but your colleagues certainly aren’t (or they are) and you need someone to come in
+
+What we offer:
  - Audit comprised of interviews with yourself and team 
  - Product proposal and roadmap
  - Presentation
 
+<span class="improved">
+<a href="mailto:hi@irlresear.ch">Be in touch</a></span> 
+
 # If you’re a startup acellorator running a fund: 
 You need a consultant to send to your startups to help them with their idea and product/market/fit. You have a lot of access to capital and you want to give it to the right startups. You want to develop a research track of a future area of investment.  
 
+What we offer:
  - Holding projection meetings with key stakeholders
  - Broad research of selected topics
  - Narrative summary and presentation of research
 
+<span class="improved">
+<a href="mailto:hi@irlresear.ch">Be in touch</a></span> 
+
 # If you’re none of these: 
 You understand what it's like to have big dreams and feel like you don't really fit in anywhere. You're excited by the things we can build and maybe a little scared about the implications. Or you just want to chat!
 
-- be in touch 
+<span class="improved">
+<a href="mailto:hi@irlresear.ch">Be in touch</a></span> 
 
+<br>
+<br><br><br><br><br>
 
-
-# Future research nterests include: Agtech, biotech, mental health innovations, 5G, infrastructure, climate change resilience, psilocybin/MDMA/ketamine startups, privacy/security. 
+#### Future research interests include: 
+Agtech, biotech, mental health innovations, 5G, infrastructure, climate change resilience, psilocybin/MDMA/ketamine startups, privacy/security. 
 
 
 ***

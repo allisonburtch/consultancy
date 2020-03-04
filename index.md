@@ -12,15 +12,16 @@ title: Hey, welcome.
 
 We're IRL Research Lab. We work with people. And ideas. And technology. But mainly people. 
 
-#### Humanity is on the verge of many possible futures, all happening at the same time, to all of us. 
+### Humanity is on the verge of many possible futures, all happening at the same time, to all of us. 
 
 We will help you align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you bravely build the future. 
+<br>
 
 1. We conduct research to predict possible futures. 
-2. We do in-depth analysis of your company's product
+2. We do in-depth analysis of your company's product and mission alignment
 3. We help create tech products 
 
-##### Think of it as the feeling you get when someone has your back and *tells the truth*. 
+### Think of it as the feeling you get when someone has your back and *tells the truth*. 
 
 And we've done this with big ideas in the past: drones for humanitarian work with UNICEF, blockchain for journalism, on-device machine learning for recommendations, and privacy projects far ahead of their time.
 
