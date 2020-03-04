@@ -11,7 +11,7 @@ You’re one of those rare driven people that is chasing after a brilliant idea.
 
 What we offer:
  - Audit comprised of interviews with yourself and team 
- - Mission alignment presentation with ta angible steps moving forward to move you more toward your mission
+ - Mission alignment presentation with tangible steps moving forward to move you more toward your mission
  - Cultural observations/ethnographies to market-based decision making
 
 <span class="improved">
@@ -23,7 +23,7 @@ You believe in the deep mission of your project and also know that your organiza
 What we offer:
  - Audit comprised of interviews with yourself and team 
  - Product proposal and roadmap
- - Presentation
+ - Design thinking presentation
 
 <span class="improved">
 <a href="mailto:hi@irlresear.ch">Be in touch</a></span> 
