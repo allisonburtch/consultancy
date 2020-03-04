@@ -31,11 +31,16 @@ Interests include: Agtech, biotech, mental health innovations, 5G, infrastructur
 also to tell more of a story -->
 <!-- IRL Research Lab is commited to building the future. We will help you align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you bravely build the future. 
  -->
-Incandescent is
+<!-- Incandescent is
 On Human Enterprise — Our Blog
 discovering how to
 Our Work
 create, build, and run enterprises to do the world’s most
 Contact Us
-important work.
+important work. -->
+
+
+
+
+
 ***
