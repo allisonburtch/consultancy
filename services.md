@@ -12,7 +12,7 @@ title: Services
 
 And you’ve promised a lot -- to your investors, your employees, yourself. You're a pre-seed or seed stage startup and want to tackle this problem as soon as possible, because everything rides on it. 
 
-What we offer:
+### What we offer:
  - Audit comprised of interviews with yourself and team 
  - Presentation with tangible steps to move you more toward mission alignment
  - Cultural observations/ethnographies to market-based decision making
@@ -26,7 +26,7 @@ What we offer:
 
 You want to move your organization forward to be better prepared to handle what is coming next but don’t know how (or do, but need some help). 
 
-What we offer:
+### What we offer:
  - Audit comprised of interviews with yourself and team 
  - Product proposal and roadmap
  - Design thinking presentation
@@ -38,7 +38,7 @@ What we offer:
 
 ### You need a consultant to send to your startups to help them with their idea and product/market/fit. You have a lot of access to capital and you want to give it to the right startups. You want to develop a research track of a future area of investment.  
 
-What we offer:
+### What we offer:
  - Holding projection meetings with key stakeholders
  - Broad research of selected topics
  - Narrative summary and presentation of research

@@ -9,16 +9,16 @@ title: Reviews
 
 
 <img src="/assets/canopy.png" alt="canopy" align="left" style="width:30%">
-### **[Canopy](canopy.cr/)** is a privacy startup located in Brooklyn. Canopy combines on-device machine learning and differential privacy to ensure no personal data leaves your device. 
+### **[Canopy](canopy.cr/)** is a privacy startup located in Brooklyn that combines on-device machine learning and differential privacy to ensure no personal data leaves your device. 
 
-*"We had a lot of ideas and many directions we could go in. Allison [brought clarity](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy) to the possibilities of our vision and pushed us on the fundamental questions of what we're doing. We care about privacy and algorithmic recommendations and we got clear on how that is reflected in the products we build. We also realized that there are things we don't care about, and we were able to get clear on being okay with that as well, which added a ton of value. Through her in-depth research, [strategic analysis](https://canopy.cr/post/how-we-think-about-strategy-at-canopy), [product contributions](https://canopy.cr/post/how-tonic-is-experimenting-with-reader-vibes), and network, we came out with a clear strategy, a product roadmap, and a deeper understanding of possibilities and limitations of tech."* <br>-Brian Whitman, Founder and CEO of Canopy
+*"We had a lot of ideas and many directions we could go in. Allison [brought clarity](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy) to the possibilities of our vision and pushed us on the fundamental questions of what we're doing, and we got clear on how that is reflected in the products we build. Through her in-depth research, [strategic analysis](https://canopy.cr/post/how-we-think-about-strategy-at-canopy), [product contributions](https://canopy.cr/post/how-tonic-is-experimenting-with-reader-vibes), and network, we came out with a clear strategy, a product roadmap, and a deeper understanding of possibilities and limitations of what we're building."* <br>-Brian Whitman, Founder and CEO of Canopy
 
 <br>
 <br>
 
 <img src="/assets/drone.png" alt="cj" align="left" style="width:30%">
 
-### **[UNICEF Office of Innovation](https://www.unicef.org/innovation/)** takes emerging technological tools and tests how they can be applied to benefit the world's most vulnerable women and children. If successful, UNICEF's Office of Innovation scales them to positively impact children and young people around the world.
+### **[UNICEF Office of Innovation](https://www.unicef.org/innovation/)** takes emerging technological tools and tests how they can be applied to benefit the world's most vulnerable women and children. If successful, UNICEF's Office of Innovation scales those technologies to positively impact children and young people around the world.
 
 *"As the Speculative Hardware lead for UNICEF Innovation, Allison met with key government officials, UN stakeholders, industry leaders, and students to help negotiate the first-of-its kind drone testing corridor for humanitarian and development testing of UAVs in Malawi. She helped bring a consensus together on the use of drones for vaccine delivery and flood response, far ahead of its time. Allison understood the international tech landscape and how to strategically use power to accomplish the UN innovation goals. She advised the UNICEF Venture fund on key UAV investments."* <br>- Chris Fabian, co-founder of UNICEF Innovation and Venture Fund
 <br>
