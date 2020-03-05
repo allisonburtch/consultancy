@@ -73,10 +73,12 @@ figure {
 }
 
 // Blog post or page title
-.page-title,
+.page-title, 
 .post-title,
 .post-title a {
   color: $body-color;
+  font-size: 1.5em;
+
   
 @media (prefers-color-scheme: dark) {
   color: $body-color-dark;

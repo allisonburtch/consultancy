@@ -9,7 +9,7 @@ title: About
 
     
 
-### What does IRL research lab stand for ?
+### What does IRL research lab stand for?
 
 Drawing from a [long line](https://en.wikipedia.org/wiki/Recursive_acronym) of recursive naming, IRL stands for IRL Research Lab.
 
