@@ -22,7 +22,7 @@ We **build tech roadmaps** to fix and maintain alignment.
 
 **But mostly, we have your back, and tell the truth.**
 
-And we’ve done this with big ideas in the past: [drones for humanitarian work with UNICEF](/services), on-device machine learning for recommendations, blockchain for journalism and privacy hardware far ahead of their time. 
+[And we’ve done this with big ideas in the past](/services): drones for humanitarian work with UNICEF, on-device machine learning for recommendations, blockchain for journalism and privacy hardware far ahead of their time. 
 
 We thrive on the difficult and have the range to hold space for complicated projects.
 
