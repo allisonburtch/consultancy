@@ -6,15 +6,14 @@ title:
 
 # We’re IRL Research Lab. 
 ## We believe that humanity is on the verge of many possible futures.
+
 ## We help teams of people build better futures for all of us.
 
-<br>
-
-### We thrive on the difficult and have the range to hold space for complicated projects. 
+## We thrive on the difficult and have the range to hold space for complicated projects. 
 
 We align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you plan and build. 
 
-**Here's how:**
+## **Here's how:**
 
 We **conduct research** to predict possible futures
 
