@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Hey, welcome.
+title: 
 ---
 <img src="/assets/headshot2.jpg" alt="headshot" align="left" style="width:40%" >
 
-## We’re IRL Research Lab. 
-## We help teams of people build better futures for all of us.
+### We’re IRL Research Lab. 
+### We help teams of people build better futures for all of us.
 
 <!-- We're IRL Research Lab. We work with people. And ideas. And technology. But mainly people. 
  -->
-## We believe that humanity is on the verge of many possible futures.
+**We believe that humanity is on the verge of many possible futures.**
+<br>
 <br>
 We align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you plan and build. Here’s how:
 

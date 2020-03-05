@@ -30,7 +30,7 @@ Please follow us [here](https://twitter.com/irl).
 ### Can I get a longass third-person bio please?
 
 <figure>
-  <img src="/assets/headshot.jpg" alt="Headshot" style="width:100%">
+  <img src="/assets/headshot3.jpg" alt="Headshot" style="width:100%">
 </figure>
 
 

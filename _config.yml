@@ -1,7 +1,7 @@
 # Setup
 title: IRL RESEARCH LAB
 tagline: building the future
-url: https://twitter.com/irl
+url: https://irlresear.ch
 paginate: 1
 paginate_path: "/blog/page:num/"
 baseurl: ""
@@ -39,7 +39,7 @@ ga_analytics: G-1JGB5HMDSY
 # Specify the author for blog posts
 author:
   name: Allison Burtch
-  url: https://twitter.com/irl
+  url: https://irlresear.ch
   email: allison@allisonburtch.net
 
 # Custom vars

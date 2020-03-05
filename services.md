@@ -25,8 +25,8 @@ What we offer:
  - Product proposal and roadmap
  - Design thinking presentation
 
-<span class="improved">
-<a href="mailto:hi@irlresear.ch">Be in touch</a></span> 
+
+<a href="mailto:hi@irlresear.ch"><span class="improved"></span>BE in touch </a>
 
 # If you’re a startup acellorator running a fund: 
 You need a consultant to send to your startups to help them with their idea and product/market/fit. You have a lot of access to capital and you want to give it to the right startups. You want to develop a research track of a future area of investment.  

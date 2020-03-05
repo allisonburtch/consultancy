@@ -5,7 +5,9 @@
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 3rem;
+  text-align: left;
+  font-size: 1.25rem;
 }
 
 .masthead-title {
@@ -13,7 +15,11 @@
   margin-bottom: 20px;
   color: $body-color;
   position: relative;
+  text-align: left;
+  padding-right: 12px;
   
+
+
 @media (prefers-color-scheme: dark) {
   color: $body-color-dark;
   }
@@ -23,7 +29,7 @@
   }
 
   small {
-    font-size: 75%;
+    font-size: 55%;
     font-weight: 400;
     opacity: .5;
   }
@@ -40,6 +46,7 @@
   }
   
 ul#navigation-list {
+  color:8C2306;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -48,7 +55,7 @@ ul#navigation-list {
     display: inline;
     list-style: none;
 	padding-left: 0;
-    padding-right: 15px;
+    padding-right: 12px;
 	margin: 0;
     }
 }
