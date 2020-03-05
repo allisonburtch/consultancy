@@ -2,11 +2,12 @@
 layout: page
 title: About
 ---
-
-<meta name="About" content="Author: Burtch, Allison, 
-    Category: 'consultancy, NYC consultants, trend reports, technology, future tech'">
+<head>
+<meta name="description" 
+	content="IRL Research is a consultancy based in NYC started by Allison Burtch"
+    category='consultancy, NYC consultants, trend reports, technology, future tech'>
 <title>About IRL Research Lab, twitter handle @irl and Allison Burtch</title>
-
+</head>
     
 
 ### What does IRL research lab stand for?
