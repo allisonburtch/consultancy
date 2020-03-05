@@ -6,16 +6,18 @@ title: Services
     Category: 'consultancy, trend reports, technology, future tech'">
 
 
-### If you’re a startup founder/CEO: 
+### **If you’re a startup founder/CEO:**
 
-You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step. And you’ve promised a lot -- to your investors, your employees, yourself. You're a pre-seed or seed stage startup and want to tackle this problem as soon as possible, because everything rides on it. 
+### You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step. 
+
+And you’ve promised a lot -- to your investors, your employees, yourself. You're a pre-seed or seed stage startup and want to tackle this problem as soon as possible, because everything rides on it. 
 
 What we offer:
  - Audit comprised of interviews with yourself and team 
  - Mission alignment presentation with tangible steps moving forward to move you more toward your mission
  - Cultural observations/ethnographies to market-based decision making
 
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Be in touch</a> </span>
+<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk about my company</a> </span>
 
 <br>
 ### **If you’re at a non profit/NGO starting a tech project:** 
@@ -29,7 +31,7 @@ What we offer:
  - Product proposal and roadmap
  - Design thinking presentation
 
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Be in touch</a> </span>
+<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk about my tech project</a> </span>
 
 <br>
 ### **You’re a startup accelerator running a fund:**
@@ -41,14 +43,14 @@ What we offer:
  - Broad research of selected topics
  - Narrative summary and presentation of research
 
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Be in touch</a> </span>
+<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk about my accelerator</a> </span>
 
 <br>
 ### **If you’re none of these??**
 
 You understand what it's like to have big dreams and feel like you don't really fit in anywhere. You're excited by the things we can build and maybe a little scared about the implications. Or you just want to chat!
 
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Be in touch</a> </span>
+<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk!</a> </span>
 <br>
 <br><br><br><br><br>
 
