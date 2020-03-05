@@ -55,7 +55,7 @@ You understand what it's like to have big dreams and feel like you don't really 
 <br><br><br><br><br>
 
 #### Future research interests include: 
-Agtech, biotech, mental health innovations, 5G, infrastructure, climate change resilience, psilocybin/MDMA/ketamine startups, privacy/security. 
+Agtech, biotech, mental health innovations, 5G, infrastructure, climate change resilience, psilocybin/MDMA/ketamine startups, privacy/security, woo woo shit. 
 
 
 ***

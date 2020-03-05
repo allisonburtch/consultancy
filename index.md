@@ -10,7 +10,7 @@ title:
 
 ### We believe that humanity is on the verge of many possible futures.
 
-### We help teams of people build better futures for all of us.
+### We help teams of people build inspiring products.
 
 ### We thrive on the difficult and have the range to hold space for complicated projects. 
 <br>
@@ -27,7 +27,7 @@ We **build tech roadmaps** to fix and maintain alignment.
 
 **But mostly, we have your back, and tell the truth.**
 
-[And we’ve done this with big ideas in the past](/services): drones for humanitarian work with UNICEF, on-device machine learning for recommendations, blockchain for journalism and privacy hardware far ahead of its time. 
+[And we’ve done this with big ideas in the past](/services): drones for humanitarian work, on-device machine learning for recommendations, blockchain for journalism and privacy hardware far ahead of its time. 
 
 **Building something new is brave. Let's build the horizon together.**
 
