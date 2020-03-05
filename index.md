@@ -1,15 +1,16 @@
 ---
 layout: page
-title: 
+title:
 ---
-<img src="/assets/headshot2.jpg" alt="headshot" align="left" style="width:40%">
+<img src="/assets/headshot2.jpg" alt="headshot" align="left" style="width:45%">
 
 # We’re IRL Research Lab. 
-## We help teams of people build better futures for all of us.
 ## We believe that humanity is on the verge of many possible futures.
+## We help teams of people build better futures for all of us.
 
 <br>
-We thrive on the difficult and have the range to hold space for complicated projects. 
+
+### We thrive on the difficult and have the range to hold space for complicated projects. 
 
 We align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you plan and build. 
 

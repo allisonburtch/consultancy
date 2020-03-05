@@ -14,7 +14,7 @@ And you’ve promised a lot -- to your investors, your employees, yourself. You'
 
 What we offer:
  - Audit comprised of interviews with yourself and team 
- - Mission alignment presentation with tangible steps moving forward to move you more toward your mission
+ - Presentation with tangible steps to move you more toward mission alignment
  - Cultural observations/ethnographies to market-based decision making
 
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk about my company</a> </span>
