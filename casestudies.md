@@ -21,9 +21,7 @@ title: Case Studies
 *"Allison came to Jackson with a unique capacity to deeply and quickly understand our technical, political and social situation. She contributed to the framework to build the Fabrication Lab, 6-figure grants we successfully got, and advised on how to build our technical capacity with schools and institutions. We had a lot of timely discussions on what to build and what not to build regarding blockchain, software development and digital fabrication. We’re really glad we worked with her. We’d recommend her to any institution that needs a big-picture technical thinker but also someone who understands humans with deep empathy."* - Kali Akuno, Executive Director of Cooperation Jackson
 
 
-### AINow/Google Walkouts
-Meredith Whittaker and I first met when she asked me to speak at a privacy event at Pioneer Works in 2014. Since then, we've collaborated on strategy for her multiple projects involving the future of artificial intelligence and the limits of machine learning at the [AINowInstitute](ainowinstitute.org/). 
-
+### **[AINow](https://ainowinstitute.org/)** is a research institute examining the social implications of artificial intelligence. Meredith Whittaker and I first collaborated when she asked me to speak about privacy in 2014. Since then, we've worked on strategy for her multiple projects involving the future of artificial intelligence, support for her anti-Maven letter at Google and the Google walkouts that sparked protests in tech globally. 
 *"Allison is the ultimate BS detector. She’s been in and around the technology industry for over a decade...I worked at Google for over a decade, and inside and out, I’ve rarely met someone who is able to get to the heart of a technical issue with as much clarity and precision. I wished she’d been in many of the meetings where bad projects based on incomplete thinking were pushed forward."* - Meredith Whitacker, Co-Founder of AINow
 
 
