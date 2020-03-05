@@ -9,8 +9,7 @@ title: Services
 ### **If you’re a startup founder/CEO:**
 
 ### You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step. 
-
-And you’ve promised a lot -- to your investors, your employees, yourself. You're a pre-seed or seed stage startup and want to tackle this problem as soon as possible, because everything rides on it. 
+And you’ve promised a lot -- to your investors, your employees, yourself. You're a pre-seed or seed stage startup and want to tackle this problem as soon as possible, because everything rides on it. **How do you align your vision to change the world with your product?**
 
 ### What we offer:
  - Audit comprised of interviews with yourself and team 
@@ -24,7 +23,7 @@ And you’ve promised a lot -- to your investors, your employees, yourself. You'
 
 ### You believe in the deep mission of your project and also know that your organization needs to prepare itself for the tech economy and automation. 
 
-You want to move your organization forward to be better prepared to handle what is coming next but don’t know how (or do, but need some help). 
+You want to move your organization forward to be better prepared to handle what is coming next but don’t know how (or do, but need some help). **How do you keep your organization relevant in the face of technological change?**
 
 ### What we offer:
  - Audit comprised of interviews with yourself and team 
@@ -36,7 +35,9 @@ You want to move your organization forward to be better prepared to handle what 
 <br>
 ### **You’re a startup accelerator running a fund:**
 
-### You need a consultant to send to your startups to help them with their idea and product/market/fit. You have a lot of access to capital and you want to give it to the right startups. You want to develop a research track of a future area of investment.  
+### You need a consultant to send to your startups to help them with their idea and product/market/fit. You have a lot of access to capital and you want to give it to the right startups. 
+
+You want to develop a research track of a future area of investment. **How do you know you're keeping up-to-date with global VC investment?**
 
 ### What we offer:
  - Holding projection meetings with key stakeholders
