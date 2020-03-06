@@ -14,7 +14,7 @@ description: IRL Research Lab is a tech consultancy based in NYC started by Alli
 ### We thrive on the difficult and have the range to hold space for complicated projects. 
 
 <br>
-<br><br>
+<br>
 We align your mission and your product, your dream with reality, so that you can be fully grounded in your own integrity as you plan and build. 
 
 ## Here's how:
