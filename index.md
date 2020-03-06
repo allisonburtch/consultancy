@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: We’re IRL Research Lab.
 description: IRL Research Lab is a tech consultancy based in NYC started by Allison Burtch
 ---
-
-## We’re IRL Research Lab.
 
 ### We believe that humanity is on the verge of many possible futures.
 
