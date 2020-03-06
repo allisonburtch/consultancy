@@ -1,6 +1,7 @@
 ---
 layout: page
 title:
+description: IRL Research Lab is a tech consultancy based in NYC started by Allison Burtch
 ---
 <img src="/assets/headshot2.jpg" alt="headshot" align="left" style="width:45%">
 
