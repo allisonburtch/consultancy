@@ -22,7 +22,6 @@ We **analyze** your company’s product and mission alignment.
 
 We **build tech roadmaps** to fix and maintain alignment.
 
-
 <br>
 <img src="/assets/headshot2.jpg" alt="headshot" align="right" style="width:35%">
 

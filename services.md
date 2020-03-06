@@ -1,25 +1,21 @@
 ---
 layout: page
 title: Services
+description: IRL Research Lab offers strategy and research consulting services to startups, non-profits, VCs and accelerators in order to build the future of technology.
 ---
-<meta name="Services" content="Author: Burtch, Allison, 
-    Category: 'consultancy, trend reports, technology, future tech'">
-
 
 <!-- be one sentence -->
 <!-- differentiate...turn the question into the active thing....we help you align your vision...we help you keep your organization relevant in the face of tech change... -->
 <!-- differentiate yourself a little bit...each what we offer shoudl have a what it is and what it does that i do tha tother people can't do -->
 
 
-We offer different services for <a href="#startup-founders-and-ceos">Startup Founders/CEO</a>, <a href="#non-profit-or-starting-a-tech-project">non-profits starting a tech project</a>, a <a href="#startup-accelerator-or-vc-running-a-fund">VC running a fund or startup accelerator</a>, and if you're<a href="#something-else"> none of these</a>, please be in touch. 
+IRL Research Lab offers strategy and research consulting services to <a href="#startup-founders-and-ceos">startups,</a> <a href="#non-profit-or-starting-a-tech-project">non-profits</a>, <a href="#startup-accelerator-or-vc-running-a-fund">VCs and accelerators</a>. Of course, if <a href="#something-else">none of these</a> describes you, we'd still love to chat.
 
 ***
 
-### **Startup Founders** and **CEOs**
+### **Startup Founders and CEOs**
 
-You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step. 
-
-And you’ve promised a lot -- to your investors, your employees, yourself. You're a pre-seed or seed stage startup and want to tackle this problem as soon as possible, because everything rides on it. **How do you align your vision to change the world with your product?**
+You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step. **How do you align your vision to change the world with your product?**
 
 ### What we offer:
  - Audit comprised of interviews with yourself and team 
@@ -28,13 +24,15 @@ And you’ve promised a lot -- to your investors, your employees, yourself. You'
 
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about my company</a> </span>
 
+
+<br>
+
+
 ***
 
-### **Non-Profit or Starting a Tech Project:** 
+### **Non-Profit or Starting a Tech Project** 
 
-You believe in the deep mission of your project and also know that your organization needs to prepare itself for the tech economy and automation. 
-
-You want to move your organization forward to be better prepared to handle what is coming next but don’t know how (or do, but need some help). **How do you keep your organization relevant in the face of technological change?**
+You believe in the deep mission of your project and also know that your organization needs to prepare itself for the tech economy and automation. **How do you keep your organization relevant in the face of technological change?**
 
 ### What we offer:
  - Audit comprised of interviews with yourself and team 
@@ -47,9 +45,7 @@ You want to move your organization forward to be better prepared to handle what 
 
 ***
 
-### **Startup accelerator or VC running a fund:**
-
-You need a consultant to send to your startups to help them with their idea and product/market/fit. You have a lot of access to capital and you want to give it to the right startups. 
+### **Startup accelerator or VC running a fund**
 
 You want to develop a research track of a future area of investment. **How do you know you're keeping up-to-date with global VC investment?**
 
