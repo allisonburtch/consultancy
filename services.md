@@ -11,11 +11,11 @@ title: Services
 <!-- differentiate yourself a little bit...each what we offer shoudl have a what it is and what it does that i do tha tother people can't do -->
 
 
-We offer different services for <a href="#startup-founder-or-ceo">Startup Founders/CEO</a>, <a href="#non-profit-or-starting-a-tech-project">non-profits starting a tech project</a>, a <a href="#startup-accelerator-or-vc-running-a-fund">VC running a fund or startup accelerator</a>, and if you're<a href="#something-else"> none of these</a>, please be in touch. 
+We offer different services for <a href="#startup-founders-and-ceos">Startup Founders/CEO</a>, <a href="#non-profit-or-starting-a-tech-project">non-profits starting a tech project</a>, a <a href="#startup-accelerator-or-vc-running-a-fund">VC running a fund or startup accelerator</a>, and if you're<a href="#something-else"> none of these</a>, please be in touch. 
 
 ***
 
-### **Startup founder or CEO:** 
+### **Startup Founders** and **CEOs**
 
 You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step. 
 
