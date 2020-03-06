@@ -5,8 +5,14 @@ title: Services
 <meta name="Services" content="Author: Burtch, Allison, 
     Category: 'consultancy, trend reports, technology, future tech'">
 
+- <a href="#startup-founder-or-ceo">Startup Founders/CEO</a>  
+- <a href="#non-profit-or-starting-a-tech-project">Non-Profits starting a tech project</a> 
+- <a href="#startup-accelerator-or-vc-running-a-fund">VC running a fund or startup accelerator</a> 
+- <a href="#something-else">If you’re none of these?</a>
 
-### **If you’re a startup founder/CEO:**
+
+
+### **Startup founder or CEO:** 
 
 ### You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step. 
 And you’ve promised a lot -- to your investors, your employees, yourself. You're a pre-seed or seed stage startup and want to tackle this problem as soon as possible, because everything rides on it. **How do you align your vision to change the world with your product?**
@@ -19,7 +25,8 @@ And you’ve promised a lot -- to your investors, your employees, yourself. You'
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk about my company</a> </span>
 
 <br>
-### **If you’re at a non profit/NGO starting a tech project:** 
+
+### **Non-Profit or Starting a Tech Project:** 
 
 ### You believe in the deep mission of your project and also know that your organization needs to prepare itself for the tech economy and automation. 
 
@@ -33,7 +40,8 @@ You want to move your organization forward to be better prepared to handle what 
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk about my tech project</a> </span>
 
 <br>
-### **You’re a startup accelerator running a fund:**
+
+### **Startup accelerator or VC running a fund:**
 
 ### You need a consultant to send to your startups to help them with their idea and product/market/fit. You have a lot of access to capital and you want to give it to the right startups. 
 
@@ -47,7 +55,8 @@ You want to develop a research track of a future area of investment. **How do yo
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk about my accelerator</a> </span>
 
 <br>
-### **If you’re none of these??**
+
+### **Something else**
 
 You understand what it's like to have big dreams and feel like you don't really fit in anywhere. You're excited by the things we can build and maybe a little scared about the implications. Or you just want to chat!
 
