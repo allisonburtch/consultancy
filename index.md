@@ -14,7 +14,7 @@ We align your mission and your product, your dream with reality, so that you can
 
 ## Here's how:
 
-We **conduct research** to predict possible futures
+We **conduct research** to predict possible futures.
 
 We **analyze** your company’s product and mission alignment.
 
