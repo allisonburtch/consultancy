@@ -7,7 +7,7 @@ tags: consultancy, NYC consultants, trend reports, technology, future tech
 
 ### What does IRL research lab stand for?
 
-Drawing from a [long line](https://en.wikipedia.org/wiki/Recursive_acronym) of recursive naming, IRL stands for IRL Research Lab.
+Drawing from a [long line](https://en.wikipedia.org/wiki/Recursive_acronym) of recursive acronyms, IRL stands for IRL Research Lab.
 
 
 ### How'd you get the @irl twitter handle?
