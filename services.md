@@ -7,6 +7,10 @@ title: Services
 
 
 <!-- be one sentence -->
+<!-- differentiate...turn the question into the active thing....we help you align your vision...we help you keep your organization relevant in the face of tech change... -->
+<!-- differentiate yourself a little bit...each what we offer shoudl have a what it is and what it does that i do tha tother people can't do -->
+
+
 - <a href="#startup-founder-or-ceo">Startup Founders/CEO</a>  
 - <a href="#non-profit-or-starting-a-tech-project">Non-Profits starting a tech project</a> 
 - <a href="#startup-accelerator-or-vc-running-a-fund">VC running a fund or startup accelerator</a> 

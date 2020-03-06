@@ -20,12 +20,17 @@ We **analyze** your company’s product and mission alignment.
 
 We **build tech roadmaps** to fix and maintain alignment.
 
-<img src="/assets/headshot2.jpg" alt="headshot" align="right" style="width:45%">
+<img src="/assets/headshot2.jpg" alt="headshot" align="right" style="width:35%">
 
 **But mostly, we have your back, and tell the truth.**
 
 **And we’ve done this with [big ideas](/reviews) in the past:** drones for humanitarian work, on-device machine learning for recommendations, blockchain for journalism and privacy hardware far ahead of its time. 
 
 **Building something new is brave. [Let's build](/services) the horizon together.**
+
+<br>
+<br>
+<br>
+
 
 ***
