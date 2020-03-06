@@ -5,6 +5,8 @@ title: Services
 <meta name="Services" content="Author: Burtch, Allison, 
     Category: 'consultancy, trend reports, technology, future tech'">
 
+
+<!-- be one sentence -->
 - <a href="#startup-founder-or-ceo">Startup Founders/CEO</a>  
 - <a href="#non-profit-or-starting-a-tech-project">Non-Profits starting a tech project</a> 
 - <a href="#startup-accelerator-or-vc-running-a-fund">VC running a fund or startup accelerator</a> 
@@ -63,9 +65,5 @@ You understand what it's like to have big dreams and feel like you don't really 
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk!</a> </span>
 <br>
 <br><br><br><br><br>
-
-#### Future research interests include: 
-Agtech, biotech, mental health innovations, 5G, infrastructure, climate change resilience, psilocybin/MDMA/ketamine startups, privacy/security, woo woo shit. 
-
 
 ***
