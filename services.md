@@ -19,8 +19,9 @@ You’re highly driven and chasing after a brilliant idea. But making that brill
 
 ### What we offer:
  - Audit comprised of interviews with yourself and team 
+ - Turn data sets into qualitative research
  - Presentation with tangible steps to move you more toward mission alignment
- - Cultural observations/ethnographies to market-based decision making
+
 
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about my company</a> </span>
 
