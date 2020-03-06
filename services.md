@@ -16,7 +16,7 @@ title: Services
 - <a href="#startup-accelerator-or-vc-running-a-fund">VC running a fund or startup accelerator</a> 
 - <a href="#something-else">If you’re none of these?</a>
 
-
+***
 
 ### **Startup founder or CEO:** 
 
@@ -30,7 +30,7 @@ And you’ve promised a lot -- to your investors, your employees, yourself. You'
 
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk about my company</a> </span>
 
-<br>
+***
 
 ### **Non-Profit or Starting a Tech Project:** 
 
@@ -47,6 +47,8 @@ You want to move your organization forward to be better prepared to handle what 
 
 <br>
 
+***
+
 ### **Startup accelerator or VC running a fund:**
 
 ### You need a consultant to send to your startups to help them with their idea and product/market/fit. You have a lot of access to capital and you want to give it to the right startups. 
@@ -61,6 +63,8 @@ You want to develop a research track of a future area of investment. **How do yo
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">Let's talk about my accelerator</a> </span>
 
 <br>
+
+***
 
 ### **Something else**
 
