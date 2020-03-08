@@ -29,17 +29,11 @@ description: Case studies of previous clients of IRL Research lab and Allison Bu
 <br>
 
 <img src="/assets/ainow.png" alt="cj" align="left" style="width:30%">
-### **[AI Now](https://ainowinstitute.org/)** is a research institute examining the social implications of artificial intelligence. [Meredith Whittaker](https://en.wikipedia.org/wiki/Meredith_Whittaker) and I first collaborated when she asked me to speak about privacy in 2014. Since then, we've worked on strategy for her multiple projects involving the future of artificial intelligence, support for her anti-Maven letter at Google and the Google walkouts that sparked protests in tech globally. 
 
-*"Allison is the ultimate BS detector. She’s been in and around the technology industry for over a decade...I worked at Google for over a decade, and inside and out, I’ve rarely met someone who is able to get to the heart of a technical issue with as much clarity and precision. I wished she’d been in many of the meetings where bad projects based on incomplete thinking were pushed forward."* <br>- Meredith Whitacker, Co-Founder of AINow
+### **[Meredith Whittaker](https://ainowinstitute.org/)** and I first collaborated when she asked me to [speak about privacy](https://pioneerworks.org/programs/art-design-and-the-future-of-privacy/) in 2015. Since then, I've advised her on her multiple projects involving the implications of artificial intelligence and labor organizing around ethical issues in the tech industry. 
+
+*"Allison is the ultimate BS detector. She's been in and around the tech industry for over a decade, as have I, and I've rarely met someone who is able to get to the heart of a technical issues and their broader implications with as much clarity and precision. I wish she'd been at many of the meetings where bad projects based on incomplete thinking were approved. If every tech-related effort had Allison as an advisor, we'd have a radically improved tech sector."* <br>- Meredith Whitacker, Co-founder of NYU's AI Now Institute 
 <br>
-
-
-
-	
-
-
-
 
 
 
