@@ -13,7 +13,7 @@ IRL Research Lab offers strategy and research consulting services to <a href="#s
 
 ***
 
-### **Startup Founders and CEOs**
+### Startup Founders and CEOs
 
 You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step. **How do you align your vision to change the world with your product?**
 
@@ -31,7 +31,7 @@ You’re highly driven and chasing after a brilliant idea. But making that brill
 
 ***
 
-### **Non-Profit or Starting a Tech Project** 
+### Non-Profit or Starting a Tech Project
 
 You believe in the deep mission of your project and also know that your organization needs to prepare itself for the tech economy and automation. **How do you keep your organization relevant in the face of technological change?**
 
@@ -46,7 +46,7 @@ You believe in the deep mission of your project and also know that your organiza
 
 ***
 
-### **Startup accelerator or VC running a fund**
+### Startup accelerator or VC running a fund
 
 You want to develop a research track of a future area of investment. **How do you know you're keeping up-to-date with global VC investment?**
 
@@ -61,7 +61,7 @@ You want to develop a research track of a future area of investment. **How do yo
 
 ***
 
-### **Something else**
+### Something else
 
 You understand what it's like to have big dreams and feel like you don't really fit in anywhere. You're excited by the things we can build and maybe a little scared about the implications. Or you just want to chat!
 

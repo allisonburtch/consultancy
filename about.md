@@ -10,11 +10,13 @@ tags: consultancy, NYC consultants, trend reports, technology, future tech
 Drawing from a [long line](https://en.wikipedia.org/wiki/Recursive_acronym) of recursive acronyms, IRL stands for IRL Research Lab.
 
 
-### How'd you get the @irl twitter handle?
+### Who is IRL Research Lab?
 
-Very carefully :) 
+IRL Research Lab was started by Allison Burtch (see <a href="#bio">bio</a> below). I have a wide network of brilliant and talented collaborators, and in the following year I plan to publish some research reports with colleagues. Please be in touch if you'd like to work together. 
 
-Please follow us [here](https://twitter.com/irl).
+### How'd you get the [@irl](https://twitter.com/irl) twitter handle?
+
+Very carefully :) Feel free to give us a [follow](https://twitter.com/irl).
 
 <!-- ### Some writing examples?
 
@@ -30,9 +32,9 @@ Please follow us [here](https://twitter.com/irl).
 </figure>
 
 
-IRL Research Lab was founded by [Allison Burtch](https://allisonburtch.github.io/). The name Allison means "truthful one" and that has been her life's mission - to create beauty and tell the truth so that we can live more freely on this interconnected planet. She has consulted since 2014 for startups, community groups and NGOs. 
+IRL Research Lab was founded by [Allison Burtch](https://allisonburtch.github.io/). The name Allison means "truthful one" and that has been her life's mission - to create beauty and tell the truth so that we can live more freely on this interconnected planet. She has consulted since 2014 for startups, community groups, media platforms and NGOs. 
 
-She has worn many hats, and has been a strategist, technologist and researcher, most recently at [Canopy](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy) -- a Brooklyn-based startup creating a private recommendation architecture for the internet. Previously, she was the Speculative Hardware lead at UNICEF, creating the [global strategy](https://www.pbs.org/newshour/world/drone-use-humanitarian-aid) for drone delivery of vaccines and flood response. 
+Allison has worn many hats, and has been a strategist, technologist and researcher, most recently at [Canopy](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy) -- a Brooklyn-based startup creating a private recommendation architecture for the internet. Previously, she was the Speculative Hardware lead at UNICEF, creating the [global strategy](https://www.pbs.org/newshour/world/drone-use-humanitarian-aid) for drone delivery of vaccines and flood response. 
 
 After seeing how techno-utopian much of the creative tech field was, she made the first “Critical Theory of Technology: Politics, Utopia and Code” at the [School for Poetic Computation](https://allisonburtch.github.io/sfpc/) in 2014. She was a resident at Eyebeam where she created a [small ultrasonic hardware device](https://allisonburtch.github.io/mic-jammer/) that protects smart phone users from passive audio surveillance. People thought she was crazy at the time but _la historia me absolverá_. An [anti-genetic surveillance video](https://allisonburtch.github.io/dna-spoofing/) Allison made with friends has been shown at every Holocaust museum in Europe. 
 
