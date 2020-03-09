@@ -24,7 +24,7 @@ We **build tech roadmaps** to fix and maintain alignment.
 <br>
 
 <p>
-<img src="/assets/headshot2.jpg" alt="headshot" align="right" style="width:35%">
+<img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
 <h3>But mostly, we have your back, and tell the truth.</h3>
 
 <b>And we’ve done this with <a href="/reviews"> big ideas </a> in the past:</b> drones for humanitarian work, on-device machine learning for recommendations, blockchain for journalism and privacy hardware far ahead of its time. 
