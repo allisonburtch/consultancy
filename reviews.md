@@ -8,7 +8,8 @@ description: Case studies of previous clients of IRL Research lab and Allison Bu
 
 ### **[Canopy](canopy.cr/)** is a privacy startup located in Brooklyn that combines on-device machine learning and differential privacy to ensure no personal data leaves your device. 
 
-*"We had a lot of ideas and many directions we could go in. Allison [brought clarity](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy) to the possibilities of our vision and pushed us on the fundamental questions of what we're doing, and we got clear on how that is reflected in the products we build. Through her in-depth research, [strategic analysis](https://canopy.cr/post/how-we-think-about-strategy-at-canopy), [product contributions](https://canopy.cr/post/how-tonic-is-experimenting-with-reader-vibes), and network, we came out with a clear strategy, a product roadmap, and a deeper understanding of possibilities and limitations of what we're building."* <br>-Brian Whitman, Founder and CEO of Canopy
+*"Allison [brought clarity](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy) to the possibilities of our vision at Canopy and pushed us on the fundamental questions of what we're doing. Her in-depth research, [strategic analysis](https://canopy.cr/post/how-we-think-about-strategy-at-canopy), product contributions and network helped us to define a clear strategy and get a deeper understanding of possibilities and limitations of tech."*-Brian Whitman & Annika Goldman, Canopy CEO & COO
+<br>
 <br>
 <br>
 
