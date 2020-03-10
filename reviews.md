@@ -17,7 +17,7 @@ description: Case studies of previous clients of IRL Research lab and Allison Bu
 
 ### **[UNICEF Office of Innovation](https://www.unicef.org/innovation/)** takes emerging technological tools and tests how they can be applied to benefit the world's most vulnerable women and children. If successful, we scale those technologies to positively impact children around the world.
 
-*"As the Speculative Hardware lead for UNICEF Innovation, Allison met with key government officials, UN stakeholders, industry leaders, and students to help negotiate the first-of-its kind drone testing corridor for humanitarian and development testing of UAVs in Malawi. She helped bring a consensus together on the use of drones for vaccine delivery and flood response, far ahead of its time. Allison understood the international tech landscape and how to strategically use power to accomplish the UN innovation goals. She advised the UNICEF Venture fund on key UAV investments."* <br> 
+*"As the Speculative Hardware lead for UNICEF Innovation, Allison met with key government officials, UN stakeholders, industry leaders, and students to help negotiate the first-of-its kind drone testing corridor for humanitarian and development testing of UAVs in Malawi. She helped bring a consensus together on the use of drones for vaccine delivery and flood response, far ahead of its time. Allison understood the international tech landscape and how to strategically use power to accomplish the UN innovation goals. She advised the UNICEF Venture fund on key UAV investments."* <br> -Ariam Mogos, Office of Innovation
 <br>
 <br>
 
