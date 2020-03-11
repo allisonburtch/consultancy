@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reviews
-description: Case studies of previous clients of IRL Research lab and Allison Burtch including startups like Canopy, UNICEF, drones, Cooperation Jackson, ecosocialists and google walkouts
+description: Case studies of previous clients of IRL Research lab and Allison Burtch including startups like Canopy, UNICEF, drones, Cooperation Jackson.
 ---
 
 <img src="/assets/canopy.png" alt="canopy" align="left" style="width:30%">

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: FAQ
 description: About the IRL Research Lab, @irl and background of Allison Burtch
 tags: consultancy, NYC consultants, trend reports, technology, future tech
 ---
