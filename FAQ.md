@@ -12,7 +12,7 @@ Drawing from a [long line](https://en.wikipedia.org/wiki/Recursive_acronym) of r
 
 ### Who is IRL Research Lab?
 
-IRL Research Lab was started by Allison Burtch (see <a href="#bio">bio</a> below). I have a wide network of brilliant and talented collaborators, and in the following year I plan to publish some research reports with colleagues. Please be in touch if you'd like to work together. 
+IRL Research Lab was started by Allison Burtch (see her <a href="#who-is-allison-burtch">bio</a> below). I have a wide network of brilliant and talented collaborators, and in the following year I plan to publish some research reports with colleagues. Please be in touch if you'd like to work together. 
 
 ### How'd you get the [@irl](https://twitter.com/irl) twitter handle?
 
@@ -25,7 +25,7 @@ Very carefully :) Feel free to give us a [follow](https://twitter.com/irl).
  - When most privacy advocates speak about our individualistm, how to think about [machine learning, privacy and our interconnection](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy). -->
 
 
-### Bio
+### Who is Allison Burtch?
 
 <figure>
   <img src="/assets/headshot3.jpg" alt="Headshot" style="width:100%">
@@ -42,7 +42,7 @@ She loves collaborating on projects, and has helped make the [Dumb Store](https:
 
 You can read more about her press/speaking engagements [here](https://allisonburtch.github.io/press.html). 
 
-### Website
+### How'd you make this website?
 This site was made using [Ruby Jekyll](https://jekyllrb.com/), modifying the [Noir](https://github.com/essentialenemy/noir/) theme and [Netlify](https://www.netlify.com/). Shout out to all the open-sourcers out there. 
 
 ***
