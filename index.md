@@ -16,7 +16,7 @@ You’re highly driven and chasing after a brilliant idea. But making that brill
 
 ### What we offer:
  - Audit comprised of interviews with yourself and team 
- - Turn data sets into qualitative research
+ - Turning data sets into qualitative research
  - Presentation with tangible steps to move you more toward mission alignment
 
 
@@ -61,6 +61,7 @@ You want to develop a research track of a future area of investment. **How do yo
 ### Something else
 
 You understand what it's like to have big dreams and feel like you don't really fit in anywhere. You're excited by the things we can build and maybe a little scared about the implications.
+
 
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk!</a> </span>
 <br><br><br>
