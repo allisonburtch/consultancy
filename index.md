@@ -5,6 +5,25 @@ description: IRL Research Lab is a tech consultancy based in NYC started by Alli
 ---
 
 
+<img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
+IRL Research Lab **conducts research** to predict possible futures.
+
+We **analyze** your company’s product and mission alignment.
+
+We **build tech roadmaps** to fix and maintain alignment.
+
+But mostly, **we have your back**, and **tell the truth**.
+
+And we’ve done this with <a href="/reviews"> big ideas </a> in the past: drones for humanitarian work, on-device machine learning for recommendations, blockchain for journalism and privacy hardware far ahead of its time. 
+<br><br>
+Building something new is brave.
+<br><br>
+Let's build the horizon <a href="/contact">together.</a>
+
+<br>
+
+***
+
 IRL Research Lab offers strategy and research consulting services to <a href="#startup-founders-and-ceos">startups,</a> <a href="#non-profit-or-starting-a-tech-project">non-profits</a>, <a href="#startup-accelerator-or-vc-running-a-fund">VCs and accelerators</a>. Of course, if <a href="#something-else">none of these</a> describes you, we'd still love to chat.
 
 
@@ -68,24 +87,6 @@ You understand what it's like to have big dreams and feel like you don't really 
 
 
 ***
-
-
-<img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
-IRL Research Lab **conducts research** to predict possible futures.
-
-We **analyze** your company’s product and mission alignment.
-
-We **build tech roadmaps** to fix and maintain alignment.
-
-But mostly, **we have your back**, and **tell the truth**.
-
-And we’ve done this with <a href="/reviews"> big ideas </a> in the past: drones for humanitarian work, on-device machine learning for recommendations, blockchain for journalism and privacy hardware far ahead of its time. 
-<br><br>
-Building something new is brave.
-<br><br>
-Let's build the horizon <a href="/contact">together.</a>
-
-<br>
 
 
 
