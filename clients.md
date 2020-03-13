@@ -25,6 +25,10 @@ description: Case studies of previous clients of IRL Research lab and Allison Bu
 
 ### **[Cooperation Jackson](https://cooperationjackson.org/)** is an organization founded in an attempt to develop an economically uplifting democratic “solidarity economy" in Jackson, Mississippi. Its aims are to develop a series of independent cooperatives which can empower residents of Jackson, especially those who are poor, unemployed, black, or Latino.
 
+
+Cooperation Jackson is a vehicle for sustainable community development, economic democracy, and community ownership in Jackson, Mississippi. Our vision is to develop a cooperative network based  that will consist of interconnected and interdependent institutions. At present our emerging federation of local worker cooperatives consists of urban farming cooperative (Freedom Farms), a lawn care cooperative (the Green Team), and a small scale manufacturing cooperative (the Community Production Cooperative). We also have a Community Land Trust, the Fannie Lou Hamer Community Land Trust, which stewards over 40 properties, including 3 commercial lots and a shopping mall. We also operate a cooperative incubator and a cooperative education and training center, the Kuwasi Balagoon Center for Economic Democracy and Development. 
+
+
 *"Allison came to Jackson with a unique capacity to deeply and quickly understand our technical, political and social situation. She contributed to the framework to build the Fabrication Lab, 6-figure grants we successfully got, and advised on how to build our technical capacity with schools and institutions. We had a lot of timely discussions on what to build and what not to build regarding blockchain, software development and digital fabrication. We’re really glad we worked with her. We’d recommend her to any institution that needs a big-picture technical thinker but also someone who understands humans with deep empathy."* <br>- Kali Akuno, Executive Director of Cooperation Jackson
 <br>
 <br>

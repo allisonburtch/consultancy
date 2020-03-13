@@ -4,8 +4,18 @@ title: We’re building the future
 description: IRL Research Lab is a tech consultancy based in NYC started by Allison Burtch that  offers strategy and research consulting services to startups, non-profits, VCs and accelerators in order to build the future of technology.
 ---
 
+<!-- <meta name="image" property="og:image" content="[Image URL here]">-->
 
-IRL Research Lab offers strategy and research consulting services to <a href="#startup-founders-and-ceos">startups,</a> <a href="#non-profit-or-starting-a-tech-project">non-profits</a>, <a href="#startup-accelerator-or-vc-running-a-fund">VCs and accelerators</a>. Of course, if <a href="#something-else">none of these</a> describes you, we'd still love to chat.
+
+<img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
+IRL Research Lab **conducts research** to predict possible futures for <a href="#startup-founders-and-ceos">startups,</a> <a href="#non-profit-or-starting-a-tech-project">non-profits</a>, <a href="#startup-accelerator-or-vc-running-a-fund">VCs and accelerators</a>. 
+
+We **analyze** your company’s product and mission alignment.
+
+We **build tech roadmaps** to fix and maintain alignment.
+
+We are **expert communicators**, we have your back, and we tell the truth.
+
 
 
 ***
@@ -60,8 +70,7 @@ You want to develop a research track of a future area of investment. **How do yo
 
 ### Something else
 
-You understand what it's like to have big dreams and feel like you don't really fit in anywhere. You're excited by the things we can build and maybe a little scared about the implications.
-
+Maybe you understand what it's like to have big dreams and feel like you don't really fit in anywhere. You're excited by the things humanity can build and maybe a little scared about the implications. If the other three don't fit, but you still want to chat about a project, we'd love to talk.
 
 <span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk!</a> </span>
 <br><br><br>
@@ -69,23 +78,16 @@ You understand what it's like to have big dreams and feel like you don't really 
 
 ***
 
+### This isn't our first rodeo. 
 
-<img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
-IRL Research Lab **conducts research** to predict possible futures.
+We’ve worked on some of the world's <a href="/reviews">biggest ideas</a> in the past: drones for humanitarian work, on-device machine learning for private recommendations, blockchain for journalism and privacy hardware far ahead of its time. We'd love to work with you. 
 
-We **analyze** your company’s product and mission alignment.
+Check out some of our reviews <a href="/reviews">here</a>.
 
-We **build tech roadmaps** to fix and maintain alignment.
+We know that building something new is brave.
 
-But mostly, **we have your back**, and **tell the truth**.
-
-And we’ve done this with <a href="/reviews"> big ideas </a> in the past: drones for humanitarian work, on-device machine learning for recommendations, blockchain for journalism and privacy hardware far ahead of its time. 
-<br><br>
-Building something new is brave.
-<br><br>
 Let's build the horizon <a href="/contact">together.</a>
 
-<br>
 
 
 
