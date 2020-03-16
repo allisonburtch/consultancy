@@ -81,9 +81,9 @@ Maybe you understand what it's like to have big dreams and feel like you don't r
 
 ### This isn't our first rodeo. 
 
-We’ve worked on some of the world's <a href="/reviews">biggest ideas</a> in the past: drones for humanitarian work, on-device machine learning for private recommendations, blockchain for journalism and privacy hardware far ahead of its time. We'd love to work with you. 
+We’ve worked on some of the world's <a href="/clients">biggest ideas</a> in the past: drones for humanitarian work, on-device machine learning for private recommendations, blockchain for journalism and privacy hardware far ahead of its time. We'd love to work with you. 
 
-Check out some of our reviews <a href="/reviews">here</a>.
+Check out some of our reviews <a href="/clients">here</a>.
 
 We know that building something new is brave.
 
