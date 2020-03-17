@@ -6,6 +6,9 @@ image: /assets/headshotcrop.jpg
 description: Launching a consultancy in the middle of a global pandemic is not ideal. But we do not live in an ideal world.
 ---
 
+
+<img src="/assets/headshotcrop.jpg" alt="headshot" >
+
 Hi, thanks for visiting. Consider this the "hello, world" post for IRL Research Lab. 
 
 Launching a consultancy in the middle of a global pandemic is not ideal. In fact it's the opposite of the situation that I was imagining. 
