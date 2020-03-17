@@ -7,6 +7,7 @@ paginate_path: "/blog/page:num/"
 baseurl: ""
 permalink: blog/:title/
 
+
 kramdown:
     footnote_backlink: "&#10548;"
 
