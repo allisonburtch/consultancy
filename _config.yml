@@ -5,7 +5,7 @@ url: https://irlresear.ch
 paginate: 1
 paginate_path: "/blog/page:num/"
 baseurl: ""
-permalink: :title/
+permalink: blog/:title/
 
 kramdown:
     footnote_backlink: "&#10548;"
