@@ -11,7 +11,7 @@ We'd be happy to chat about possibilities. Send us an email at <a href="mailto:h
 
 ### Book a free 30 minute consultation
 
-If you'd prefer to book a call right away, and have a startup, non-profit, or accelerator you'd like to chat about, feel free to add an appointment.
+In this time of crisis, I've opened my schedule to talk to as many people as possible. If you're working on anything that you think needs critical help right now, let's be in touch. 
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/allison-c15/30min" style="min-width:320px;height:630px;"></div>
