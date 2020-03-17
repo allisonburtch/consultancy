@@ -2,6 +2,33 @@
 layout: default
 title: Home
 ---
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@irl" />
+<meta name="twitter:title" content="IRL Research Lab" />
+<meta name="twitter:description" content="IRL Research Lab is a tech consultancy based in NYC that offers strategy and research consulting services to startups, non-profits, VCs and accelerators. " />
+<meta name="twitter:image" content="/assets/headshotcrop.jpg" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+  <link rel="img" sizes="144x144" href="{{ site.baseurl }}/assets/img.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+
+  {% seo title=true %}
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JGB5HMDSY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1JGB5HMDSY');
+</script>
+
+</head>
+
 
 <div class="posts">
   {% for post in paginator.posts %}
