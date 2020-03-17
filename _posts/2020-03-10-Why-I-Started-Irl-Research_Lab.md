@@ -2,6 +2,8 @@
 layout: post
 title: Introducing IRL Research Lab
 date: 2020-02-17 09:30:00
+image: /assets/headshotcrop.jpg
+description: Launching a consultancy in the middle of a global pandemic is not ideal. But we do not live in an ideal world.
 ---
 
 Hi, thanks for visiting. Consider this the "hello, world" post for IRL Research Lab. 
