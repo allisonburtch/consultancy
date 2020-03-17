@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building the future
-description: IRL Research Lab is a tech consultancy based in NYC started by Allison Burtch that  offers strategy and research consulting services to startups, non-profits, VCs and accelerators in order to build the future of technology.
+description: IRL Research Lab is a tech consultancy based in NYC started by Allison Burtch that offers strategy and research consulting services to startups, non-profits, VCs and accelerators. 
 image: "/assets/headshotcrop.jpg"
 ---
 
@@ -9,7 +9,7 @@ image: "/assets/headshotcrop.jpg"
 
 
 <img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
-IRL Research Lab **conducts research** to predict possible futures for <a href="#startup-founders-and-ceos">startups,</a> <a href="#non-profit-or-starting-a-tech-project">non-profits</a>, <a href="#startup-accelerator-or-vc-running-a-fund">VCs and accelerators</a>. 
+IRL Research Lab **conducts research** to predict possible futures for <a href="#startup-founders-and-ceos">startups,</a> <a href="#non-profit-or-starting-a-tech-project">non-profits</a>, <a href="#accelerators-and-funds">VCs and accelerators</a>. 
 
 We **analyze** your company’s product and mission alignment.
 
@@ -54,7 +54,7 @@ You believe in the deep mission of your project and also know that your organiza
 
 ***
 
-### Startup accelerator or VC running a fund
+### Accelerators and funds
 
 You want to develop a research track of a future area of investment. **How do you know you're keeping up-to-date with global VC investment?**
 
@@ -89,7 +89,7 @@ We know that building something new is brave.
 
 Let's build the horizon <a href="/contact">together.</a>
 
-
+<iframe src="https://allisonburtch.substack.com/embed" width="400" height="160" style="border:2px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 
 
