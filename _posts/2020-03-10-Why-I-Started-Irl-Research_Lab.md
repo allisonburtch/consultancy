@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Introducing IRL Research Lab
-date: 2020-02-10 09:30:00
+date: 2020-02-17 09:30:00
 ---
+
+***
+<br>
 
 Hi, thanks for visiting. Consider this the 'hello, world' post for IRL Research Lab. 
 
-Launching a consultancy in the middle of a global pandemic is not ideal. In fact it's the opposite of the situation that I was imagining, a situation where I could be super excited about this launch and send this to my entire network and then work to build projects with some of my closest friends. 
+Launching a consultancy in the middle of a global pandemic is not ideal. In fact it's the opposite of the situation that I was imagining. But I've gotten over that. We do not live in an ideal world. And I think that some people are just waking up to that. 
 
-But I've gotten over that. We do not live in an ideal world. And I think that some people are just waking up to that. We can see in real time the system that we have built being stress tested. We will be able to see some of the most beautiful humans shine with bravery, sacrifice and risk. And we will see the ugliness of greed, fear, exploitation and control.
+We can see in real time the system that we have built being stress tested. We will be able to see some of the most beautiful humans shine with bravery, sacrifice and risk. And we will see the ugliness of greed, fear, exploitation and control.
 
 We're facing one of the biggest crises that this generation has experienced. There are many unknowns to the future. But there are some knowns. People need health care, housing, work, food, and community. And they want a future they can believe in. 
 
