@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 description: Best way to contact Allison Burtch and IRL Research Lab is to email "hi@irlresear.ch" or set up a Calendly appointment or follow on twitter @irl "https://twitter.com/irl"
+image: /assets/headshotcrop.jpg
 ---
 
 

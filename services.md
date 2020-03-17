@@ -2,6 +2,7 @@
 layout: page
 title: Services
 description: IRL Research Lab offers strategy and research consulting services to startups, non-profits, VCs and accelerators in order to build the future of technology.
+image: /assets/headshotcrop.jpg
 ---
 
 IRL Research Lab offers strategy and research consulting services to <a href="#startup-founders-and-ceos">startups,</a> <a href="#non-profit-or-starting-a-tech-project">non-profits</a>, <a href="#startup-accelerator-or-vc-running-a-fund">VCs and accelerators</a>. Of course, if <a href="#something-else">none of these</a> describes you, we'd still love to chat.
