@@ -2,7 +2,7 @@
 layout: page
 title: Building the future
 description: IRL Research Lab is a tech consultancy based in NYC started by Allison Burtch that offers strategy and research consulting services to startups, non-profits, VCs and accelerators. 
-image: "/assets/headshotcrop.jpg"
+image: /assets/headshotcrop.jpg
 ---
 
 <meta name="image" property="og:image" content="/assets/headshotcrop.jpg">
