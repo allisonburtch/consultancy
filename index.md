@@ -9,7 +9,7 @@ image: "/assets/headshotcrop.jpg"
 
 
 <img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
-IRL Research Lab **conducts research** to predict possible futures for <a href="#startup-founders-and-ceos">startups,</a> <a href="#non-profit-or-starting-a-tech-project">non-profits</a>, <a href="#accelerators-and-funds">VCs and accelerators</a>. 
+IRL Research Lab **conducts research** to predict possible futures for <u><a href="#startup-founders-and-ceos">startups,</a></u> <u><a href="#non-profit-or-starting-a-tech-project">non-profits</a></u>, <u><a href="#accelerators-and-funds">VCs and accelerators</a></u>.
 
 We **analyze** your company’s product and mission alignment.
 
@@ -31,7 +31,7 @@ You’re highly driven and chasing after a brilliant idea. But making that brill
  - Presentation with tangible steps to move you more toward mission alignment
 
 
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about my company</a> </span>
+<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about your company</a> </span>
 
 
 <br>
@@ -48,7 +48,7 @@ You believe in the deep mission of your project and also know that your organiza
  - Product proposal and roadmap
  - Design thinking presentation
 
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about my tech project</a> </span>
+<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about your tech project</a> </span>
 
 <br>
 
@@ -63,7 +63,7 @@ You want to develop a research track of a future area of investment. **How do yo
  - Broad research of selected topics
  - Narrative summary and presentation of research
 
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about my accelerator</a> </span>
+<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about your accelerator</a> </span>
 
 <br>
 

@@ -14,7 +14,7 @@ We're facing one of the biggest crises that this generation has experienced. The
 
 I want to help you build that future. I'm talking about climate resilience, AgTech, food infrastructure, biotech, privacy, psilocybin/ketamine for mental health, batteries, 5G, space. Complicated projects that maybe don't have a clear endpoint.
 
-I have a lot of experience holding space in the midst of chaos and uncertainty. And I'm ready to do it now, with you. I've opened my schedule March 23rd-April 3rd to [talk to anyone](/contact) who is working on something new. There is no project too big or too small. Let's be brave together. 
+I have a lot of experience holding space in the midst of chaos and uncertainty. And I'm ready to do it now, with you. I've opened my schedule March 23rd-April 3rd to <u><a href="/contact">talk to anyone</a></u> who is working on something urgently relevant. There is no project too big or too small. Let's be brave together. 
 
 Blessings,
 
