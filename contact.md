@@ -15,7 +15,7 @@ We'd be happy to chat about possibilities. Send us an email at <a href="mailto:h
 In this time of crisis, I've opened my schedule to talk to as many people as possible. If you're working on anything that you think needs critical help right now, let's be in touch. 
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/allison-c15/30min" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/allisonburtch/30min" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
 <!-- Calendly inline widget end -->
 
