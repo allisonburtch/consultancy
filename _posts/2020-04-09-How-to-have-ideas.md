@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Have Ideas
-date: 2020-04-12
+date: 2020-04-13
 image: /assets/crit1.png
 description: I was inspired to write this post after after a recent client asked me to help him work on building a product to respond to coronavirus. How do people have ideas?
 ---
