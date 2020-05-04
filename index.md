@@ -11,11 +11,11 @@ image: /assets/headshotcrop.jpg
 <img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
 IRL Research Lab **conducts research** to predict possible futures for <u><a href="#startup-founders-and-ceos">startups,</a></u> <u><a href="#non-profit-or-starting-a-tech-project">non-profits</a></u>, <u><a href="#accelerators-and-funds">VCs and accelerators</a></u>.
 
-We **analyze** your company’s product and mission alignment.
+I **analyze** your company’s product and mission alignment.
 
-We **build tech roadmaps** to fix and maintain alignment.
+I **build tech roadmaps** to fix and maintain alignment.
 
-We are **expert communicators**, we have your back, and we tell the truth.
+I'm an **expert communicator**, I have your back, and I tell the truth.
 
 
 
@@ -67,6 +67,7 @@ You want to develop a research track of a future area of investment. **How do yo
 
 <br>
 
+
 ***
 
 ### Who is Allison Burtch?
@@ -74,7 +75,6 @@ You want to develop a research track of a future area of investment. **How do yo
 <figure>
   <img src="/assets/headshot3.jpg" alt="Headshot" style="width:100%">
 </figure>
-
 
 IRL Research Lab was founded by [Allison Burtch](https://allisonburtch.github.io/). The name Allison means "truthful one" and that has been her life's mission - to tell the truth and create beauty so that we can live more freely on this interconnected planet. Since getting her masters in 2014 at NYU's Interactive Telecommunications Program, she has consulted for startups, community groups, media platforms and NGOs. 
 
