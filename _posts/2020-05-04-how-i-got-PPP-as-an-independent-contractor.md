@@ -1,7 +1,7 @@
 ---
 layout: post
-title: This is how I got PPP as an Independent Contractor
-date: 2020-04-13
+title: How I got PPP as an independent contractor
+date: 2020-05-04
 image: /assets/PPP.jpg
 description: Big banks are not incentivized to help sole proprietors and independent contractors
 ---
