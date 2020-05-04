@@ -10,11 +10,13 @@ description: Big banks are not incentivized to help sole proprietors and indepen
 
 I announced this consultancy in the middle of February, at the beginning of coronavirus and got promptly paralyzed by fear. Was this a dumb move? Brave? Perhaps a mixture of both? How can I reach out to people during this time? People are getting laid off. Budgets are getting cut. 
 
-So like millions of people, my business took a hit when coronavirus started. Luckily, the Paycheck Protection Program was designed for people with small businesses, including independent contractors. Last year while consulting I was mostly 1099-MISCs, and so I was elible for PPP. This is a post describing all of the Kaftaesque hurdles I had to jump over in order to get PPP.
+So like millions of people, my business took a hit when coronavirus started. Luckily, the Paycheck Protection Program was designed for people with small businesses, including independent contractors. Last year while consulting I was mostly 1099-MISCs, and so I was eligible for PPP. 
 
-Anyone trying to get PPP will know that the hardest part is finding a bank to file your application. Banks are incentivized to help out the people who want millions of dollars, and I was applying for less than $15k. 
+**This is a post describing all of the Kaftaesque hurdles I had to jump over in order to get PPP.**
 
-Now listen, I'm not gonna lie - I'm a little bit of a hustler. If there was a way to get this figured out, I was gonna do it. I've supported credit unions sincle Wells Fargo fucked me over too many times to count, so I already had a personal account at the [Lower East Side People's Federal Credit Union](https://lespeoples.org/), with had an added benefit of getting a [CitiBike discount](https://www.citibikenyc.com/pricing/cdcu) in NYC. 
+Anyone trying to get PPP will know that the hardest part is _finding_ a bank to file your application. Banks are incentivized to help out the people who want millions of dollars, and I was applying for less than $15k. 
+
+Now listen, I'm not gonna lie - I'm a little bit of a hustler. If there was a way to get this figured out, I was gonna do it. I've supported credit unions sincle Wells Fargo fucked me over too many times to count, so I already had a personal account at the [Lower East Side People's Federal Credit Union](https://lespeoples.org/), which had an added benefit of getting a [CitiBike discount](https://www.citibikenyc.com/pricing/cdcu) in NYC. 
 
 But I had a lot of work to do, in a very short amount of time. 
 
