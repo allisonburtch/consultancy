@@ -61,6 +61,8 @@ Ultimately, independent contractors were left to fend for themselves. Independen
 
 I'm insanely grateful that I was able to get PPP, and I feel for anyone who has struggled to get it. 
 
-I'm happy to chat with anyone that is trying to apply for PPP. If you have any questions or if I can help in any way, feel free to [email me](mailto:hi@irlresear.ch).
+***
+
+IRL Research Lab helps companies start interesting projects, does research to predict possible futures, I helps build tech roadmap maintain alignment with your mission. I'm happy to chat with anyone that is trying to apply for PPP. If you have any questions or if I can help in any way, feel free to [email me](mailto:hi@irlresear.ch).
 
 
