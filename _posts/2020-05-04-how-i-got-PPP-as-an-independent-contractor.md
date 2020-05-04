@@ -14,7 +14,7 @@ So like millions of people, my business took a hit when coronavirus started. Luc
 
 Anyone trying to get PPP will know that the hardest part is finding a bank to file your application. Banks are incentivized to help out the people who want millions of dollars, and I was applying for less than $15k. 
 
-Now listen, I'm not gonna lie. I'm a little bit of a hustler. If there was a way to get this figured out, I was gonna do it. I've been a huge supporter of credit unions sincle Wells Fargo fucked me over too many times to count, so I already had a personal account at the [Lower East Side People's Federal Credit Union](https://lespeoples.org/), with had an added benefit of getting a [CitiBike discount](https://www.citibikenyc.com/pricing/cdcu) in NYC. 
+Now listen, I'm not gonna lie - I'm a little bit of a hustler. If there was a way to get this figured out, I was gonna do it. I've supported credit unions sincle Wells Fargo fucked me over too many times to count, so I already had a personal account at the [Lower East Side People's Federal Credit Union](https://lespeoples.org/), with had an added benefit of getting a [CitiBike discount](https://www.citibikenyc.com/pricing/cdcu) in NYC. 
 
 But I had a lot of work to do, in a very short amount of time. 
 
