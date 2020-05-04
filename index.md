@@ -69,13 +69,25 @@ You want to develop a research track of a future area of investment. **How do yo
 
 ***
 
-### Something else
+### Who is Allison Burtch?
 
-Maybe you understand what it's like to have big dreams and feel like you don't really fit in anywhere. You're excited by the things humanity can build and maybe a little scared about the implications. If the other three don't fit, but you still want to chat about a project, we'd love to talk.
+<figure>
+  <img src="/assets/headshot3.jpg" alt="Headshot" style="width:100%">
+</figure>
 
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk!</a> </span>
-<br><br><br>
 
+IRL Research Lab was founded by [Allison Burtch](https://allisonburtch.github.io/). The name Allison means "truthful one" and that has been her life's mission - to tell the truth and create beauty so that we can live more freely on this interconnected planet. Since getting her masters in 2014 at NYU's Interactive Telecommunications Program, she has consulted for startups, community groups, media platforms and NGOs. 
+
+Allison has worn many hats, and has been a strategist, technologist and researcher, most recently at [Canopy](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy) -- a Brooklyn-based startup creating a private recommendation architecture for the internet. Previously, she was the Speculative Hardware lead at UNICEF, creating the [global strategy](https://www.pbs.org/newshour/world/drone-use-humanitarian-aid) for drone delivery of vaccines and flood response. 
+
+After seeing how techno-utopian much of the creative tech field was, she made the first “Critical Theory of Technology: Politics, Utopia and Code” at the [School for Poetic Computation](https://allisonburtch.github.io/sfpc/). She was a resident at Eyebeam where she created a [small ultrasonic hardware device](https://allisonburtch.github.io/mic-jammer/) that protects smart phone users from passive audio surveillance. People thought she was crazy at the time but [_la historia me absolverá_](https://www.nytimes.com/2020/02/14/technology/alexa-jamming-bracelet-privacy-armor.html). An [anti-genetic surveillance video](https://allisonburtch.github.io/dna-spoofing/) Allison made with friends has been shown at every Holocaust museum in Europe. 
+
+She loves collaborating on projects, and has helped make the [Dumb Store](https://web.archive.org/web/20170712083832/http://www.dumbsto.re/) – a mobile app store for dumbphones, co-organized [Prism BreakUp](http://prismbreakup.org/) at Eyebeam and the [Drones and Aerial Robotics Conference](https://web.archive.org/web/20131221051928/http://droneconference.org/) at New York University. In 2011-2012, Allison was an editor of the [Occupied Wall Street Journal](https://allisonburtch.github.io/owsj/), a six-edition print publication which was translated into six languages and distributed globally. She led a European biking and camping tour for teenagers, traveled by train from Kazakhstan to Beijing and lived on a boat. She has spoken internationally at conferences and universities. 
+
+You can read more about her press/speaking engagements [here](https://allisonburtch.github.io/press.html).
+<br>
+<br>
+<br>
 
 ***
 
@@ -88,6 +100,9 @@ Check out some of our reviews <a href="/clients">here</a>.
 We know that building something new is brave.
 
 Let's build the horizon <a href="/contact">together.</a>
+
+<br>
+<br>
 
 <iframe src="https://allisonburtch.substack.com/embed" width="400" height="160" style="border:2px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
