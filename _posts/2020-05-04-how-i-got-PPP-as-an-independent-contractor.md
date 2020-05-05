@@ -12,7 +12,7 @@ I announced this consultancy in the middle of February, at the beginning of coro
 
 So like millions of people, my business took a hit when coronavirus started. Luckily, the Paycheck Protection Program was designed for people with small businesses, including independent contractors. Last year while consulting I was mostly 1099-MISCs, and so I was eligible for PPP. 
 
-**This is a post describing all of the Kaftaesque hurdles I had to jump over in order to get PPP.**
+**This is a post describing all of the Kafkaesque hurdles I had to jump over in order to get PPP.**
 
 Anyone trying to get PPP will know that the hardest part is _finding_ a bank to file your application. Banks are incentivized to help out the people who want millions of dollars, and I was applying for less than $15k. 
 
