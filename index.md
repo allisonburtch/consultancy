@@ -9,7 +9,13 @@ image: /assets/headshotcrop.jpg
 
 
 <img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
+
+_I started IRL Research Lab because I care about the world. I believe we're all interconnected, and we're all facing difficult problems on the horizon. At the same time, we have an opportunity to build. And I want the best ideas to win and those who build with integrity to succeed._
+
+_I've helped my clients get clear, be brave, and move on to the next step in their company. I created IRL Research lab because I knew there was a better way for consulting companies to do research for the future and build products._
+
 IRL Research Lab **conducts research** to predict possible futures for <u><a href="#startup-founders-and-ceos">startups,</a></u> <u><a href="#non-profit-or-starting-a-tech-project">non-profits</a></u>, <u><a href="#accelerators-and-funds">VCs and accelerators</a></u>.
+
 
 I **analyze** your company’s product and mission alignment.
 
