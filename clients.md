@@ -33,7 +33,7 @@ description: Case studies of previous clients of IRL Research lab and Allison Bu
 
 ### **[Meredith Whittaker](https://ainowinstitute.org/)** and I first collaborated when she asked me to [speak about privacy](https://pioneerworks.org/programs/art-design-and-the-future-of-privacy/) in 2015. Since then, I've advised her on her multiple projects involving the implications of artificial intelligence and labor organizing around ethical issues in the tech industry. 
 
-*"Allison is the ultimate BS detector. She's been in and around the tech industry for over a decade, as have I, and I've rarely met someone who is able to get to the heart of a technical issues and their broader implications with as much clarity and precision. I wish she'd been at many of the meetings where bad projects based on incomplete thinking were approved. If every tech-related effort had Allison as an advisor, we'd have a radically improved tech sector."* <br>- Meredith Whitacker, Co-founder of NYU's AI Now Institute 
+*"Allison is the ultimate BS detector. She's been in and around the tech industry for over a decade, as have I, and I've rarely met someone who is able to get to the heart of a technical issues and their broader implications with as much clarity and precision. I wish she'd been at many of the meetings where bad projects based on incomplete thinking were approved. If every tech-related effort had Allison as an advisor, we'd have a radically improved tech sector."* <br>- Meredith Whittaker, Co-founder of NYU's AI Now Institute 
 <br>
 
 
