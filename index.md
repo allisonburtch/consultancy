@@ -23,7 +23,7 @@ I **build tech roadmaps** to fix and maintain alignment.
 
 I'm an **expert communicator**, I have your back, and I tell the truth.
 
-
+<div id="mimiran-widget-1566"></div> <script type="text/javascript">(function(){var ms = document.createElement('script');ms.type = 'text/javascript';ms.async = true;ms.src = 'https://irlresearchlab.mimiran.com/widgets/1566/display.js';(document.getElementsByTagName('body')[0]).appendChild(ms);})();</script>
 
 ***
 
