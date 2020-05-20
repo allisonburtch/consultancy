@@ -12,15 +12,11 @@ IRL Research Lab helps startups **ask better questions**.
 
 I love supporting people beginning new journeys -- whether that's starting a <u><a href="#starting-a-tech-project">new tech project</a></u>, doing a <u><a href="#coronavirus-pivot">coronavirus pivot</a></u>, or <u><a href="#solopreneurs-and-founders">starting a new company</a></u>. I draw on years of experience boldly building future-thinking projects in the face of obstacles. 
 
-I **hold space** for you and your team.
-
 I **conduct research** to predict possible futures.
 
 I **build tech roadmaps** that maintain alignment with your vision and your product.
 
 I'm an **expert communicator**, I have your back, and I tell the truth.
-
-
 
 
 ***
