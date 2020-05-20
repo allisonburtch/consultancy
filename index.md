@@ -10,9 +10,9 @@ image: /assets/headshotcrop.jpg
 
 IRL Research Lab helps startups **ask better questions**.
 
-I love supporting people begin new journeys -- whether that's starting a <u><a href="#starting-a-tech-project">new tech project</a></u>, doing a <u><a href="#coronavirus-pivot">coronavirus pivot</a></u>, or <u><a href="#solopreneurs-and-founders">starting a new company</a></u>. I draw on years of experience of boldly building future-thinking projects in the face of obstacles. 
+I love supporting people beginning new journeys -- whether that's starting a <u><a href="#starting-a-tech-project">new tech project</a></u>, doing a <u><a href="#coronavirus-pivot">coronavirus pivot</a></u>, or <u><a href="#solopreneurs-and-founders">starting a new company</a></u>. I draw on years of experience of boldly building future-thinking projects in the face of obstacles. 
 
-I **interview** your team.
+I **hold space** for you and your team.
 
 I **conduct research** to predict possible futures.
 
