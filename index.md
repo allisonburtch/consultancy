@@ -7,11 +7,10 @@ image: /assets/headshotcrop.jpg
 <div id="mimiran-widget-1566"></div> <script type="text/javascript">(function(){var ms = document.createElement('script');ms.type = 'text/javascript';ms.async = true;ms.src = 'https://irlresearchlab.mimiran.com/widgets/1566/display.js';(document.getElementsByTagName('body')[0]).appendChild(ms);})();</script>
 
 <meta name="image" property="og:image" content="/assets/headshotcrop.jpg"><img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
-IRL Research Lab helps people begin new journeys -- whether that's starting a <u><a href="#starting-a-tech-project">new tech project</a></u>, doing a <u><a href="#coronavirus-pivot">coronavirus pivot</a></u>, or <u><a href="#solopreneurs-and-founders">starting a new company</a></u>. I draw on years of experience of boldly building future-thinking projects in the face of obstacles. 
 
-I could say I work with CEOs, solopreneurs, non-profits and startups - but really, I work with people. 
+IRL Research Lab helps startups **ask better questions**.
 
-I help startups **ask better questions**.
+I love supporting people begin new journeys -- whether that's starting a <u><a href="#starting-a-tech-project">new tech project</a></u>, doing a <u><a href="#coronavirus-pivot">coronavirus pivot</a></u>, or <u><a href="#solopreneurs-and-founders">starting a new company</a></u>. I draw on years of experience of boldly building future-thinking projects in the face of obstacles. 
 
 I **interview** your team.
 
@@ -22,11 +21,13 @@ I **build tech roadmaps** that maintain alignment with your vision and your prod
 I'm an **expert communicator**, I have your back, and I tell the truth.
 
 
+
+
 ***
 
 ### Coronavirus Pivot
 
-Wow! This shit sucks! What do you do now? Uncertainty is painful, but so is growth. **Are you going to stay stuck or are you going to cross over to this new stage of your journey?**
+Wow! This shit sucks! What to do? Uncertainty is painful, but so is growth. **Are you going to stay stuck or are you going to cross over to this new stage of your journey?**
 
 ### What I offer:
  - Interviewing yourself and your team 
@@ -47,7 +48,8 @@ Wow! This shit sucks! What do you do now? Uncertainty is painful, but so is grow
 You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step, espectially in such a competitive environment. **How do you align your vision to change the world with your product?**
 
 ### What I offer:
- - Interviewing yourself and your team to guage alignment
+ - Interviewing yourself and your team to gauge alignment
+ - Honest feedback about the state of your company
  - Conducting research to predict possible futures
  - Presentation with tangible steps to move you more toward mission alignment
 
@@ -65,7 +67,8 @@ You’re highly driven and chasing after a brilliant idea. But making that brill
 You believe in the deep mission of your project and also know that your organization needs to prepare itself for the future. **How do you keep your organization relevant in the face of societal change?**
 
 ### What I offer:
- - Audit comprised of interviews with yourself and team 
+ - Interviewing yourself and your team
+ - Honest feedback about your project and help in figuring out how to make it
  - Co-creating product proposal and roadmap
  - Design thinking presentation
  - Presentation with tangible steps to move you more toward mission alignment
@@ -109,7 +112,7 @@ IRL Research Lab was founded by [Allison Burtch](https://allisonburtch.github.io
 
 Allison has worn many hats, and has been a strategist, technologist and researcher, most recently at [Canopy](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy) -- a Brooklyn-based startup creating a private recommendation architecture for the internet. Previously, she was the Speculative Hardware lead at UNICEF, creating the [global strategy](https://www.pbs.org/newshour/world/drone-use-humanitarian-aid) for drone delivery of vaccines and flood response. 
 
-After seeing how techno-utopian much of the creative tech field was, she made the first “Critical Theory of Technology: Politics, Utopia and Code” at the [School for Poetic Computation](https://allisonburtch.github.io/sfpc/). She was a resident at Eyebeam where she created a [small ultrasonic hardware device](https://allisonburtch.github.io/mic-jammer/) that protects smart phone users from passive audio surveillance. People thought she was crazy at the time but [_la historia me absolverá_](https://www.nytimes.com/2020/02/14/technology/alexa-jamming-bracelet-privacy-armor.html). An [anti-genetic surveillance video](https://allisonburtch.github.io/dna-spoofing/) Allison made with friends has been shown at every Holocaust museum in Europe. 
+After seeing how techno-utopian much of the creative tech field was, she made the first “Critical Theory of Technology: Politics, Utopia and Code” course at the [School for Poetic Computation](https://allisonburtch.github.io/sfpc/). She was a resident at Eyebeam where she created a [small ultrasonic hardware device](https://allisonburtch.github.io/mic-jammer/) that protects smart phone users from passive audio surveillance. People thought she was crazy at the time but [_la historia me absolverá_](https://www.nytimes.com/2020/02/14/technology/alexa-jamming-bracelet-privacy-armor.html). An [anti-genetic surveillance video](https://allisonburtch.github.io/dna-spoofing/) Allison made with friends has been shown at every Holocaust museum in Europe. 
 
 She loves collaborating on projects, and has helped make the [Dumb Store](https://web.archive.org/web/20170712083832/http://www.dumbsto.re/) – a mobile app store for dumbphones, co-organized [Prism BreakUp](http://prismbreakup.org/) at Eyebeam and the [Drones and Aerial Robotics Conference](https://web.archive.org/web/20131221051928/http://droneconference.org/) at New York University. In 2011-2012, Allison was an editor of the [Occupied Wall Street Journal](https://allisonburtch.github.io/owsj/), a six-edition print publication which was translated into six languages and distributed globally. She led a European biking and camping tour for teenagers, traveled by train from Kazakhstan to Beijing and lived on a boat. She has spoken internationally at conferences and universities. 
 
