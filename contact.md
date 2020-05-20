@@ -25,5 +25,8 @@ In this time of crisis, I've opened my schedule to talk to as many people as pos
 Please follow us [@irl](https://twitter.com/irl)
 
 
+<iframe src="https://allisonburtch.substack.com/embed" width="400" height="160" style="border:2px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+
 
 ***

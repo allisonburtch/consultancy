@@ -4,40 +4,55 @@ title: Building the future
 description: IRL Research Lab is a tech consultancy based in NYC started by Allison Burtch that offers strategy and research consulting services to startups, non-profits, VCs and accelerators. 
 image: /assets/headshotcrop.jpg
 ---
+<div id="mimiran-widget-1566"></div> <script type="text/javascript">(function(){var ms = document.createElement('script');ms.type = 'text/javascript';ms.async = true;ms.src = 'https://irlresearchlab.mimiran.com/widgets/1566/display.js';(document.getElementsByTagName('body')[0]).appendChild(ms);})();</script>
 
-<meta name="image" property="og:image" content="/assets/headshotcrop.jpg">
+<meta name="image" property="og:image" content="/assets/headshotcrop.jpg"><img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
+IRL Research Lab helps people begin new journeys -- whether that's starting a <u><a href="#starting-a-tech-project">new tech project</a></u>, doing a <u><a href="#Coronavirus-pivot">coronavirus pivot</a></u>, or <u><a href="#Solopreneurs-and-founders">starting a new company</a></u>. I draw on years of experience of boldly building future-thinking projects in the face of obstacles. 
 
+I could say I work with CEOs, solopreneurs, non-profits and startups - but really, I work with people. 
 
-<img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
+I help startups **ask better questions**.
 
-_I started IRL Research Lab because I care about the world. I believe we're all interconnected, and we're all facing difficult problems on the horizon. At the same time, we have an opportunity to build. And I want the best ideas to win and those who build with integrity to succeed._
+I **interview** your team.
 
-_I've helped my clients get clear, be brave, and move on to the next step in their company. I created IRL Research lab because I knew there was a better way for consulting companies to do research for the future and build products._
+I **conduct research** to predict possible futures.
 
-IRL Research Lab **conducts research** to predict possible futures for <u><a href="#startup-founders-and-ceos">startups,</a></u> <u><a href="#non-profit-or-starting-a-tech-project">non-profits</a></u>, <u><a href="#accelerators-and-funds">VCs and accelerators</a></u>.
-
-
-I **analyze** your company’s product and mission alignment.
-
-I **build tech roadmaps** to fix and maintain alignment.
+I **build tech roadmaps** that maintain alignment with your vision and your product.
 
 I'm an **expert communicator**, I have your back, and I tell the truth.
 
-<div id="mimiran-widget-1566"></div> <script type="text/javascript">(function(){var ms = document.createElement('script');ms.type = 'text/javascript';ms.async = true;ms.src = 'https://irlresearchlab.mimiran.com/widgets/1566/display.js';(document.getElementsByTagName('body')[0]).appendChild(ms);})();</script>
 
 ***
 
-### Startup Founders and CEOs
+### Coronavirus Pivot
 
-You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step. **How do you align your vision to change the world with your product?**
+Wow! This shit sucks! What do you do now? Uncertainty is painful, but so is growth. **Are you going to stay stuck or are you going to cross over to this new stage of your journey?**
 
-### What we offer:
- - Audit comprised of interviews with yourself and team 
- - Turning data sets into qualitative research
+### What I offer:
+ - Interviewing yourself and your team 
+ - Honest feedback about the state of your company
+ - Holding space for your dreams of something new
+ - Holding projection meetings with key stakeholders
+ - Conducting research to predict possible futures
+ - Narrative summary and presentation of research
+
+<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about your pivot</a></span>
+
+<br>
+
+***
+
+### Solopreneurs and Founders
+
+You’re highly driven and chasing after a brilliant idea. But making that brilliant idea into a reality is the next step, espectially in such a competitive environment. **How do you align your vision to change the world with your product?**
+
+### What I offer:
+ - Interviewing yourself and your team to guage alignment
+ - Conducting research to predict possible futures
  - Presentation with tangible steps to move you more toward mission alignment
 
 
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about your company</a> </span>
+<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about your company</a></span>
 
 
 <br>
@@ -45,34 +60,42 @@ You’re highly driven and chasing after a brilliant idea. But making that brill
 
 ***
 
-### Non-Profit or Starting a Tech Project
+### Starting a Tech Project
 
-You believe in the deep mission of your project and also know that your organization needs to prepare itself for the tech economy and automation. **How do you keep your organization relevant in the face of technological change?**
+You believe in the deep mission of your project and also know that your organization needs to prepare itself for the future. **How do you keep your organization relevant in the face of societal change?**
 
-### What we offer:
+### What I offer:
  - Audit comprised of interviews with yourself and team 
- - Product proposal and roadmap
+ - Co-creating product proposal and roadmap
  - Design thinking presentation
+ - Presentation with tangible steps to move you more toward mission alignment
 
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about your tech project</a> </span>
+
+<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about your tech project</a></span>
 
 <br>
 
 ***
 
-### Accelerators and funds
 
-You want to develop a research track of a future area of investment. **How do you know you're keeping up-to-date with global VC investment?**
 
-### What we offer:
- - Holding projection meetings with key stakeholders
- - Broad research of selected topics
- - Narrative summary and presentation of research
-
-<span class="improved"><a href="mailto:hi@irlresear.ch" style="color:white">let's talk about your accelerator</a> </span>
-
+### Client Reviews
 <br>
-
+*"Allison [brought clarity](https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy) to the possibilities of our vision at Canopy and pushed us on the fundamental questions of what we're doing. Her in-depth research, [strategic analysis](https://canopy.cr/post/how-we-think-about-strategy-at-canopy), product contributions and network helped us to define a clear strategy and get a deeper understanding of possibilities and limitations of tech."*<br>
+-Brian Whitman & Annika Goldman, [Canopy](https://canopy.cr/) CEO & COO
+<br>
+<br>
+*"As the Speculative Hardware lead for UNICEF Innovation, Allison met with key government officials, UN stakeholders, industry leaders, and students to help negotiate the first-of-its kind drone testing corridor for humanitarian and development testing of UAVs in Malawi. She helped bring a consensus together on the use of drones for vaccine delivery and flood response, far ahead of its time. Allison understood the international tech landscape and how to strategically use power to accomplish the UN innovation goals. She advised the UNICEF Venture fund on key UAV investments."* <br> 
+-Ariam Mogos, [Office of Innovation](https://www.unicef.org/innovation/)
+<br>
+<br>
+*"Allison came to Jackson with a unique capacity to deeply and quickly understand our technical, political and social situation. She contributed to the framework to build the Fabrication Lab, 6-figure grants we successfully got, and advised on how to build our technical capacity with schools and institutions. We had a lot of timely discussions on what to build and what not to build regarding blockchain, software development and digital fabrication. We’re really glad we worked with her. We’d recommend her to any institution that needs a big-picture technical thinker but also someone who understands humans with deep empathy."* <br>
+-Kali Akuno, Executive Director of [Cooperation Jackson](https://cooperationjackson.org/)
+<br>
+<br>
+*"Allison is the ultimate BS detector. She's been in and around the tech industry for over a decade, as have I, and I've rarely met someone who is able to get to the heart of a technical issues and their broader implications with as much clarity and precision. I wish she'd been at many of the meetings where bad projects based on incomplete thinking were approved. If every tech-related effort had Allison as an advisor, we'd have a radically improved tech sector."* <br>
+-Meredith Whittaker, Co-founder of [NYU's AI Now Institute](https://ainowinstitute.org/)
+<br>
 
 ***
 
@@ -97,20 +120,20 @@ You can read more about her press/speaking engagements [here](https://allisonbur
 
 ***
 
-### This isn't our first rodeo. 
+### Book a consultation here:
 
-We’ve worked on some of the world's <a href="/clients">biggest ideas</a> in the past: drones for humanitarian work, on-device machine learning for private recommendations, blockchain for journalism and privacy hardware far ahead of its time. We'd love to work with you. 
+I've worked on some of the world's <a href="/clients">biggest ideas</a> in the past: drones for humanitarian work, on-device machine learning for private recommendations, blockchain for journalism and privacy hardware far ahead of its time. 
 
-Check out some of our reviews <a href="/clients">here</a>.
+I'd love to hear more about what you're working on and the problems you're facing. Feel free to book a free 30-min consultation here:
 
-We know that building something new is brave.
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/allisonburtch/30min" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
 
-Let's build the horizon <a href="/contact">together.</a>
 
 <br>
 <br>
-
-<iframe src="https://allisonburtch.substack.com/embed" width="400" height="160" style="border:2px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 
 
