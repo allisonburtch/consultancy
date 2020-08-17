@@ -5,6 +5,7 @@ description: IRL Research Lab is a tech consultancy based in NYC started by Alli
 image: /assets/headshotcrop.jpg
 ---
 
+<meta name="image" property="og:image" content="/assets/headshotcrop.jpg"><img src="/assets/headshot.jpg" alt="headshot" align="right" style="width:35%">
 
 IRL Research Lab helps startups **ask better questions**.
 
